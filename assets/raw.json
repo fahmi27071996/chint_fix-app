@@ -1,0 +1,4172 @@
+[
+    {
+        "serial_number": "X12345",
+        "chint": [
+            {
+                "time_stamp": "20200411T080902.889+0700",
+                "energy_enjoy": 504.71,
+                "phase_1": 1.06,
+                "phase_2": 1.24,
+                "phase_3": 0.81
+            },
+            {
+                "time_stamp": "20200411T081357.223+0700",
+                "energy_enjoy": 465.98,
+                "phase_1": 1.06,
+                "phase_2": 1.24,
+                "phase_3": 0.78
+            },
+            {
+                "time_stamp": "20200411T081851.552+0700",
+                "energy_enjoy": 473.5,
+                "phase_1": 1.1,
+                "phase_2": 1.24,
+                "phase_3": 0.8
+            },
+            {
+                "time_stamp": "20200411T082345.886+0700",
+                "energy_enjoy": 482.01,
+                "phase_1": 1.1,
+                "phase_2": 1.27,
+                "phase_3": 0.8
+            },
+            {
+                "time_stamp": "20200411T082840.211+0700",
+                "energy_enjoy": 480.44,
+                "phase_1": 1.12,
+                "phase_2": 1.29,
+                "phase_3": 0.85
+            },
+            {
+                "time_stamp": "20200411T083334.545+0700",
+                "energy_enjoy": 480.12,
+                "phase_1": 1.1,
+                "phase_2": 1.29,
+                "phase_3": 1.11
+            },
+            {
+                "time_stamp": "20200411T084051.541+0700",
+                "energy_enjoy": 479.29,
+                "phase_1": 1.12,
+                "phase_2": 1.29,
+                "phase_3": 0.9
+            },
+            {
+                "time_stamp": "20200411T084545.917+0700",
+                "energy_enjoy": 479.88,
+                "phase_1": 1.12,
+                "phase_2": 1.26,
+                "phase_3": 0.92
+            },
+            {
+                "time_stamp": "20200411T085040.313+0700",
+                "energy_enjoy": 478.18,
+                "phase_1": 1.12,
+                "phase_2": 1.28,
+                "phase_3": 0.92
+            },
+            {
+                "time_stamp": "20200411T085852.418+0700",
+                "energy_enjoy": 470.7,
+                "phase_1": 1.07,
+                "phase_2": 1.28,
+                "phase_3": 0.8
+            },
+            {
+                "time_stamp": "20200411T090346.745+0700",
+                "energy_enjoy": 463.05,
+                "phase_1": 1.05,
+                "phase_2": 1.24,
+                "phase_3": 0.8
+            },
+            {
+                "time_stamp": "20200411T090841.072+0700",
+                "energy_enjoy": 462.09,
+                "phase_1": 1.07,
+                "phase_2": 1.28,
+                "phase_3": 1.01
+            },
+            {
+                "time_stamp": "20200411T091335.402+0700",
+                "energy_enjoy": 461.9,
+                "phase_1": 1.1,
+                "phase_2": 1.24,
+                "phase_3": 0.78
+            },
+            {
+                "time_stamp": "20200411T091829.733+0700",
+                "energy_enjoy": 462.63,
+                "phase_1": 1.1,
+                "phase_2": 1.42,
+                "phase_3": 0.8
+            },
+            {
+                "time_stamp": "20200411T092324.065+0700",
+                "energy_enjoy": 464.32,
+                "phase_1": 1.07,
+                "phase_2": 1.42,
+                "phase_3": 0.82
+            },
+            {
+                "time_stamp": "20200411T092818.394+0700",
+                "energy_enjoy": 477.01,
+                "phase_1": 1.1,
+                "phase_2": 0.82,
+                "phase_3": 1.03
+            },
+            {
+                "time_stamp": "20200411T093312.724+0700",
+                "energy_enjoy": 473.99,
+                "phase_1": 1.12,
+                "phase_2": 1.23,
+                "phase_3": 0.78
+            },
+            {
+                "time_stamp": "20200411T093807.051+0700",
+                "energy_enjoy": 476.59,
+                "phase_1": 1.12,
+                "phase_2": 1.23,
+                "phase_3": 0.78
+            },
+            {
+                "time_stamp": "20200411T094301.377+0700",
+                "energy_enjoy": 476.17,
+                "phase_1": 1.09,
+                "phase_2": 1.26,
+                "phase_3": 0.77
+            },
+            {
+                "time_stamp": "20200411T094755.706+0700",
+                "energy_enjoy": 470.09,
+                "phase_1": 1.09,
+                "phase_2": 0.79,
+                "phase_3": 0.8
+            },
+            {
+                "time_stamp": "20200411T095250.035+0700",
+                "energy_enjoy": 468.25,
+                "phase_1": 1.07,
+                "phase_2": 0.79,
+                "phase_3": 0.82
+            },
+            {
+                "time_stamp": "20200411T095744.363+0700",
+                "energy_enjoy": 470.79,
+                "phase_1": 1.12,
+                "phase_2": 1.07,
+                "phase_3": 0.84
+            },
+            {
+                "time_stamp": "20200411T100238.693+0700",
+                "energy_enjoy": 474.25,
+                "phase_1": 1.09,
+                "phase_2": 1.53,
+                "phase_3": 0.84
+            },
+            {
+                "time_stamp": "20200411T100733.019+0700",
+                "energy_enjoy": 465.18,
+                "phase_1": 1.09,
+                "phase_2": 1.56,
+                "phase_3": 0.82
+            },
+            {
+                "time_stamp": "20200411T101227.346+0700",
+                "energy_enjoy": 461.27,
+                "phase_1": 1.05,
+                "phase_2": 0.79,
+                "phase_3": 0.8
+            },
+            {
+                "time_stamp": "20200411T101721.677+0700",
+                "energy_enjoy": 452.16,
+                "phase_1": 1.02,
+                "phase_2": 0.77,
+                "phase_3": 0.8
+            },
+            {
+                "time_stamp": "20200411T102216.003+0700",
+                "energy_enjoy": 452.68,
+                "phase_1": 1.02,
+                "phase_2": 0.81,
+                "phase_3": 1.03
+            },
+            {
+                "time_stamp": "20200411T102710.335+0700",
+                "energy_enjoy": 451.38,
+                "phase_1": 1.02,
+                "phase_2": 0.79,
+                "phase_3": 0.77
+            },
+            {
+                "time_stamp": "20200411T103204.668+0700",
+                "energy_enjoy": 470.64,
+                "phase_1": 1.13,
+                "phase_2": 1.32,
+                "phase_3": 0.85
+            },
+            {
+                "time_stamp": "20200411T103658.994+0700",
+                "energy_enjoy": 484.18,
+                "phase_1": 1.15,
+                "phase_2": 1.37,
+                "phase_3": 1.16
+            },
+            {
+                "time_stamp": "20200411T104153.319+0700",
+                "energy_enjoy": 479.22,
+                "phase_1": 1.08,
+                "phase_2": 0.82,
+                "phase_3": 0.85
+            },
+            {
+                "time_stamp": "20200411T104647.644+0700",
+                "energy_enjoy": 477.13,
+                "phase_1": 1.08,
+                "phase_2": 0.85,
+                "phase_3": 0.83
+            },
+            {
+                "time_stamp": "20200411T105141.969+0700",
+                "energy_enjoy": 477.77,
+                "phase_1": 1.11,
+                "phase_2": 0.85,
+                "phase_3": 0.86
+            },
+            {
+                "time_stamp": "20200411T105636.296+0700",
+                "energy_enjoy": 477.7,
+                "phase_1": 1.13,
+                "phase_2": 1.13,
+                "phase_3": 0.83
+            },
+            {
+                "time_stamp": "20200411T110130.625+0700",
+                "energy_enjoy": 485.0,
+                "phase_1": 1.13,
+                "phase_2": 1.34,
+                "phase_3": 0.83
+            },
+            {
+                "time_stamp": "20200411T110624.961+0700",
+                "energy_enjoy": 482.39,
+                "phase_1": 1.11,
+                "phase_2": 0.82,
+                "phase_3": 0.85
+            },
+            {
+                "time_stamp": "20200411T111119.292+0700",
+                "energy_enjoy": 475.62,
+                "phase_1": 1.06,
+                "phase_2": 0.85,
+                "phase_3": 1.07
+            },
+            {
+                "time_stamp": "20200411T111613.618+0700",
+                "energy_enjoy": 462.8,
+                "phase_1": 1.06,
+                "phase_2": 0.82,
+                "phase_3": 0.85
+            },
+            {
+                "time_stamp": "20200411T112107.953+0700",
+                "energy_enjoy": 461.57,
+                "phase_1": 1.06,
+                "phase_2": 0.82,
+                "phase_3": 0.83
+            },
+            {
+                "time_stamp": "20200411T112602.276+0700",
+                "energy_enjoy": 464.46,
+                "phase_1": 1.06,
+                "phase_2": 1.3,
+                "phase_3": 0.81
+            },
+            {
+                "time_stamp": "20200411T113056.608+0700",
+                "energy_enjoy": 469.36,
+                "phase_1": 1.08,
+                "phase_2": 1.32,
+                "phase_3": 0.78
+            },
+            {
+                "time_stamp": "20200411T113550.946+0700",
+                "energy_enjoy": 462.49,
+                "phase_1": 1.06,
+                "phase_2": 0.82,
+                "phase_3": 0.83
+            },
+            {
+                "time_stamp": "20200411T114045.277+0700",
+                "energy_enjoy": 472.83,
+                "phase_1": 1.13,
+                "phase_2": 0.82,
+                "phase_3": 1.09
+            },
+            {
+                "time_stamp": "20200411T114539.605+0700",
+                "energy_enjoy": 482.78,
+                "phase_1": 1.15,
+                "phase_2": 0.82,
+                "phase_3": 0.88
+            },
+            {
+                "time_stamp": "20200411T115033.930+0700",
+                "energy_enjoy": 484.37,
+                "phase_1": 1.13,
+                "phase_2": 0.8,
+                "phase_3": 0.86
+            },
+            {
+                "time_stamp": "20200411T115528.257+0700",
+                "energy_enjoy": 490.46,
+                "phase_1": 1.13,
+                "phase_2": 1.32,
+                "phase_3": 0.81
+            },
+            {
+                "time_stamp": "20200411T120022.586+0700",
+                "energy_enjoy": 482.23,
+                "phase_1": 1.06,
+                "phase_2": 0.8,
+                "phase_3": 0.83
+            },
+            {
+                "time_stamp": "20200411T120516.912+0700",
+                "energy_enjoy": 465.47,
+                "phase_1": 1.04,
+                "phase_2": 0.83,
+                "phase_3": 1.0
+            },
+            {
+                "time_stamp": "20200411T121011.237+0700",
+                "energy_enjoy": 466.39,
+                "phase_1": 1.09,
+                "phase_2": 0.8,
+                "phase_3": 0.79
+            },
+            {
+                "time_stamp": "20200411T121505.573+0700",
+                "energy_enjoy": 464.88,
+                "phase_1": 1.04,
+                "phase_2": 0.83,
+                "phase_3": 0.81
+            },
+            {
+                "time_stamp": "20200411T121959.899+0700",
+                "energy_enjoy": 465.19,
+                "phase_1": 1.06,
+                "phase_2": 1.25,
+                "phase_3": 0.79
+            },
+            {
+                "time_stamp": "20200411T122454.233+0700",
+                "energy_enjoy": 472.88,
+                "phase_1": 1.09,
+                "phase_2": 1.32,
+                "phase_3": 0.79
+            },
+            {
+                "time_stamp": "20200411T122948.564+0700",
+                "energy_enjoy": 465.77,
+                "phase_1": 1.04,
+                "phase_2": 0.83,
+                "phase_3": 0.86
+            },
+            {
+                "time_stamp": "20200411T123442.894+0700",
+                "energy_enjoy": 473.76,
+                "phase_1": 1.16,
+                "phase_2": 0.88,
+                "phase_3": 0.86
+            },
+            {
+                "time_stamp": "20200411T123937.221+0700",
+                "energy_enjoy": 484.33,
+                "phase_1": 1.11,
+                "phase_2": 0.85,
+                "phase_3": 0.86
+            },
+            {
+                "time_stamp": "20200411T124431.549+0700",
+                "energy_enjoy": 484.89,
+                "phase_1": 1.13,
+                "phase_2": 0.85,
+                "phase_3": 0.86
+            },
+            {
+                "time_stamp": "20200411T124925.877+0700",
+                "energy_enjoy": 485.67,
+                "phase_1": 1.13,
+                "phase_2": 1.3,
+                "phase_3": 0.88
+            },
+            {
+                "time_stamp": "20200411T125420.200+0700",
+                "energy_enjoy": 490.1,
+                "phase_1": 1.13,
+                "phase_2": 0.87,
+                "phase_3": 1.1
+            },
+            {
+                "time_stamp": "20200411T125914.530+0700",
+                "energy_enjoy": 473.41,
+                "phase_1": 1.06,
+                "phase_2": 0.85,
+                "phase_3": 1.02
+            },
+            {
+                "time_stamp": "20200411T130408.866+0700",
+                "energy_enjoy": 464.54,
+                "phase_1": 1.06,
+                "phase_2": 0.82,
+                "phase_3": 1.02
+            },
+            {
+                "time_stamp": "20200411T130903.193+0700",
+                "energy_enjoy": 462.5,
+                "phase_1": 1.06,
+                "phase_2": 0.82,
+                "phase_3": 0.81
+            },
+            {
+                "time_stamp": "20200411T131357.523+0700",
+                "energy_enjoy": 461.93,
+                "phase_1": 1.08,
+                "phase_2": 1.22,
+                "phase_3": 0.78
+            },
+            {
+                "time_stamp": "20200411T131851.856+0700",
+                "energy_enjoy": 468.77,
+                "phase_1": 1.06,
+                "phase_2": 1.34,
+                "phase_3": 0.78
+            },
+            {
+                "time_stamp": "20200411T132346.178+0700",
+                "energy_enjoy": 461.38,
+                "phase_1": 1.08,
+                "phase_2": 0.82,
+                "phase_3": 0.81
+            },
+            {
+                "time_stamp": "20200411T132840.506+0700",
+                "energy_enjoy": 464.81,
+                "phase_1": 1.08,
+                "phase_2": 0.85,
+                "phase_3": 1.04
+            },
+            {
+                "time_stamp": "20200411T133334.837+0700",
+                "energy_enjoy": 481.52,
+                "phase_1": 1.13,
+                "phase_2": 0.82,
+                "phase_3": 0.83
+            },
+            {
+                "time_stamp": "20200411T133829.166+0700",
+                "energy_enjoy": 484.15,
+                "phase_1": 1.11,
+                "phase_2": 0.8,
+                "phase_3": 0.83
+            },
+            {
+                "time_stamp": "20200411T134323.497+0700",
+                "energy_enjoy": 487.3,
+                "phase_1": 1.13,
+                "phase_2": 1.32,
+                "phase_3": 0.81
+            },
+            {
+                "time_stamp": "20200411T134817.828+0700",
+                "energy_enjoy": 488.13,
+                "phase_1": 1.13,
+                "phase_2": 0.8,
+                "phase_3": 0.83
+            },
+            {
+                "time_stamp": "20200411T135312.158+0700",
+                "energy_enjoy": 482.95,
+                "phase_1": 1.06,
+                "phase_2": 0.8,
+                "phase_3": 0.81
+            },
+            {
+                "time_stamp": "20200411T135806.488+0700",
+                "energy_enjoy": 461.26,
+                "phase_1": 1.06,
+                "phase_2": 0.8,
+                "phase_3": 0.81
+            },
+            {
+                "time_stamp": "20200411T140300.816+0700",
+                "energy_enjoy": 461.79,
+                "phase_1": 1.08,
+                "phase_2": 0.78,
+                "phase_3": 0.81
+            },
+            {
+                "time_stamp": "20200411T140755.144+0700",
+                "energy_enjoy": 464.14,
+                "phase_1": 1.13,
+                "phase_2": 1.25,
+                "phase_3": 0.76
+            },
+            {
+                "time_stamp": "20200411T141249.474+0700",
+                "energy_enjoy": 471.03,
+                "phase_1": 1.11,
+                "phase_2": 1.32,
+                "phase_3": 0.74
+            },
+            {
+                "time_stamp": "20200411T141743.802+0700",
+                "energy_enjoy": 462.58,
+                "phase_1": 1.08,
+                "phase_2": 0.8,
+                "phase_3": 0.81
+            },
+            {
+                "time_stamp": "20200411T142238.132+0700",
+                "energy_enjoy": 462.9,
+                "phase_1": 1.06,
+                "phase_2": 0.78,
+                "phase_3": 0.78
+            },
+            {
+                "time_stamp": "20200411T142732.460+0700",
+                "energy_enjoy": 478.53,
+                "phase_1": 1.13,
+                "phase_2": 0.85,
+                "phase_3": 1.14
+            },
+            {
+                "time_stamp": "20200411T143226.789+0700",
+                "energy_enjoy": 485.48,
+                "phase_1": 1.13,
+                "phase_2": 0.82,
+                "phase_3": 0.83
+            },
+            {
+                "time_stamp": "20200411T143721.115+0700",
+                "energy_enjoy": 522.37,
+                "phase_1": 1.79,
+                "phase_2": 1.43,
+                "phase_3": 1.09
+            },
+            {
+                "time_stamp": "20200411T144215.448+0700",
+                "energy_enjoy": 675.54,
+                "phase_1": 1.76,
+                "phase_2": 0.92,
+                "phase_3": 1.11
+            },
+            {
+                "time_stamp": "20200411T144709.775+0700",
+                "energy_enjoy": 673.4,
+                "phase_1": 1.79,
+                "phase_2": 0.94,
+                "phase_3": 1.38
+            },
+            {
+                "time_stamp": "20200411T145204.108+0700",
+                "energy_enjoy": 661.06,
+                "phase_1": 1.7,
+                "phase_2": 0.9,
+                "phase_3": 1.09
+            },
+            {
+                "time_stamp": "20200411T145658.432+0700",
+                "energy_enjoy": 655.21,
+                "phase_1": 1.72,
+                "phase_2": 0.92,
+                "phase_3": 1.07
+            },
+            {
+                "time_stamp": "20200411T150152.760+0700",
+                "energy_enjoy": 659.69,
+                "phase_1": 1.72,
+                "phase_2": 1.39,
+                "phase_3": 1.02
+            },
+            {
+                "time_stamp": "20200411T150647.089+0700",
+                "energy_enjoy": 660.18,
+                "phase_1": 1.7,
+                "phase_2": 0.9,
+                "phase_3": 1.04
+            },
+            {
+                "time_stamp": "20200411T151141.413+0700",
+                "energy_enjoy": 655.84,
+                "phase_1": 1.7,
+                "phase_2": 0.9,
+                "phase_3": 1.05
+            },
+            {
+                "time_stamp": "20200411T151635.743+0700",
+                "energy_enjoy": 646.91,
+                "phase_1": 1.53,
+                "phase_2": 0.9,
+                "phase_3": 0.97
+            },
+            {
+                "time_stamp": "20200411T152130.071+0700",
+                "energy_enjoy": 505.73,
+                "phase_1": 1.13,
+                "phase_2": 0.87,
+                "phase_3": 1.16
+            },
+            {
+                "time_stamp": "20200411T152624.405+0700",
+                "energy_enjoy": 485.61,
+                "phase_1": 1.15,
+                "phase_2": 1.29,
+                "phase_3": 0.97
+            },
+            {
+                "time_stamp": "20200411T153118.731+0700",
+                "energy_enjoy": 491.38,
+                "phase_1": 1.15,
+                "phase_2": 1.32,
+                "phase_3": 0.93
+            },
+            {
+                "time_stamp": "20200411T153613.062+0700",
+                "energy_enjoy": 485.05,
+                "phase_1": 1.15,
+                "phase_2": 0.85,
+                "phase_3": 0.95
+            },
+            {
+                "time_stamp": "20200411T154107.388+0700",
+                "energy_enjoy": 486.33,
+                "phase_1": 1.16,
+                "phase_2": 0.83,
+                "phase_3": 0.95
+            },
+            {
+                "time_stamp": "20200411T154601.713+0700",
+                "energy_enjoy": 480.45,
+                "phase_1": 1.06,
+                "phase_2": 0.83,
+                "phase_3": 0.9
+            },
+            {
+                "time_stamp": "20200411T155056.046+0700",
+                "energy_enjoy": 464.14,
+                "phase_1": 1.08,
+                "phase_2": 1.06,
+                "phase_3": 0.88
+            },
+            {
+                "time_stamp": "20200411T155550.377+0700",
+                "energy_enjoy": 472.54,
+                "phase_1": 1.11,
+                "phase_2": 1.63,
+                "phase_3": 0.95
+            },
+            {
+                "time_stamp": "20200411T160044.714+0700",
+                "energy_enjoy": 472.7,
+                "phase_1": 1.06,
+                "phase_2": 1.13,
+                "phase_3": 0.93
+            },
+            {
+                "time_stamp": "20200411T160539.036+0700",
+                "energy_enjoy": 469.97,
+                "phase_1": 1.09,
+                "phase_2": 1.11,
+                "phase_3": 0.95
+            },
+            {
+                "time_stamp": "20200411T161033.365+0700",
+                "energy_enjoy": 470.41,
+                "phase_1": 1.06,
+                "phase_2": 0.87,
+                "phase_3": 1.38
+            },
+            {
+                "time_stamp": "20200411T161527.695+0700",
+                "energy_enjoy": 471.34,
+                "phase_1": 1.11,
+                "phase_2": 0.85,
+                "phase_3": 0.93
+            },
+            {
+                "time_stamp": "20200411T162022.025+0700",
+                "energy_enjoy": 492.78,
+                "phase_1": 1.18,
+                "phase_2": 1.34,
+                "phase_3": 0.95
+            },
+            {
+                "time_stamp": "20200411T162516.355+0700",
+                "energy_enjoy": 493.05,
+                "phase_1": 1.13,
+                "phase_2": 0.87,
+                "phase_3": 1.26
+            },
+            {
+                "time_stamp": "20200411T163010.686+0700",
+                "energy_enjoy": 492.03,
+                "phase_1": 1.16,
+                "phase_2": 0.83,
+                "phase_3": 0.93
+            },
+            {
+                "time_stamp": "20200411T163505.015+0700",
+                "energy_enjoy": 491.75,
+                "phase_1": 1.16,
+                "phase_2": 0.83,
+                "phase_3": 0.93
+            },
+            {
+                "time_stamp": "20200411T163959.347+0700",
+                "energy_enjoy": 492.92,
+                "phase_1": 1.11,
+                "phase_2": 1.49,
+                "phase_3": 0.95
+            },
+            {
+                "time_stamp": "20200411T164453.682+0700",
+                "energy_enjoy": 537.71,
+                "phase_1": 1.42,
+                "phase_2": 2.01,
+                "phase_3": 1.1
+            },
+            {
+                "time_stamp": "20200411T164948.012+0700",
+                "energy_enjoy": 570.04,
+                "phase_1": 1.37,
+                "phase_2": 1.51,
+                "phase_3": 1.05
+            },
+            {
+                "time_stamp": "20200411T165442.342+0700",
+                "energy_enjoy": 558.34,
+                "phase_1": 1.37,
+                "phase_2": 0.83,
+                "phase_3": 1.0
+            },
+            {
+                "time_stamp": "20200411T165936.668+0700",
+                "energy_enjoy": 554.64,
+                "phase_1": 1.35,
+                "phase_2": 0.85,
+                "phase_3": 1.0
+            },
+            {
+                "time_stamp": "20200411T170430.998+0700",
+                "energy_enjoy": 554.3,
+                "phase_1": 1.4,
+                "phase_2": 0.85,
+                "phase_3": 1.03
+            },
+            {
+                "time_stamp": "20200411T170925.332+0700",
+                "energy_enjoy": 560.96,
+                "phase_1": 1.42,
+                "phase_2": 1.35,
+                "phase_3": 1.0
+            },
+            {
+                "time_stamp": "20200411T171419.668+0700",
+                "energy_enjoy": 580.67,
+                "phase_1": 1.44,
+                "phase_2": 1.39,
+                "phase_3": 1.12
+            },
+            {
+                "time_stamp": "20200411T171913.998+0700",
+                "energy_enjoy": 575.85,
+                "phase_1": 1.42,
+                "phase_2": 0.87,
+                "phase_3": 1.03
+            },
+            {
+                "time_stamp": "20200411T172408.328+0700",
+                "energy_enjoy": 574.26,
+                "phase_1": 1.44,
+                "phase_2": 0.87,
+                "phase_3": 1.05
+            },
+            {
+                "time_stamp": "20200411T172902.674+0700",
+                "energy_enjoy": 575.28,
+                "phase_1": 1.42,
+                "phase_2": 0.9,
+                "phase_3": 1.24
+            },
+            {
+                "time_stamp": "20200411T173357.003+0700",
+                "energy_enjoy": 575.55,
+                "phase_1": 1.44,
+                "phase_2": 1.3,
+                "phase_3": 0.98
+            },
+            {
+                "time_stamp": "20200411T173851.334+0700",
+                "energy_enjoy": 564.65,
+                "phase_1": 1.37,
+                "phase_2": 1.35,
+                "phase_3": 0.95
+            },
+            {
+                "time_stamp": "20200411T174345.666+0700",
+                "energy_enjoy": 555.95,
+                "phase_1": 1.35,
+                "phase_2": 0.87,
+                "phase_3": 0.98
+            },
+            {
+                "time_stamp": "20200411T174839.990+0700",
+                "energy_enjoy": 551.37,
+                "phase_1": 1.35,
+                "phase_2": 0.85,
+                "phase_3": 0.98
+            },
+            {
+                "time_stamp": "20200411T175334.317+0700",
+                "energy_enjoy": 551.43,
+                "phase_1": 1.37,
+                "phase_2": 0.87,
+                "phase_3": 1.0
+            },
+            {
+                "time_stamp": "20200411T175828.649+0700",
+                "energy_enjoy": 551.85,
+                "phase_1": 1.34,
+                "phase_2": 0.87,
+                "phase_3": 1.07
+            },
+            {
+                "time_stamp": "20200411T180322.974+0700",
+                "energy_enjoy": 556.9,
+                "phase_1": 1.37,
+                "phase_2": 1.37,
+                "phase_3": 1.26
+            },
+            {
+                "time_stamp": "20200411T180817.299+0700",
+                "energy_enjoy": 576.01,
+                "phase_1": 1.46,
+                "phase_2": 0.9,
+                "phase_3": 1.31
+            },
+            {
+                "time_stamp": "20200411T181311.627+0700",
+                "energy_enjoy": 577.04,
+                "phase_1": 1.44,
+                "phase_2": 0.9,
+                "phase_3": 1.31
+            },
+            {
+                "time_stamp": "20200411T181805.955+0700",
+                "energy_enjoy": 576.36,
+                "phase_1": 1.42,
+                "phase_2": 0.87,
+                "phase_3": 1.1
+            },
+            {
+                "time_stamp": "20200411T182300.285+0700",
+                "energy_enjoy": 575.23,
+                "phase_1": 1.44,
+                "phase_2": 0.92,
+                "phase_3": 1.43
+            },
+            {
+                "time_stamp": "20200411T182754.607+0700",
+                "energy_enjoy": 579.11,
+                "phase_1": 1.47,
+                "phase_2": 1.39,
+                "phase_3": 1.36
+            },
+            {
+                "time_stamp": "20200411T183248.940+0700",
+                "energy_enjoy": 572.07,
+                "phase_1": 1.4,
+                "phase_2": 1.4,
+                "phase_3": 1.1
+            },
+            {
+                "time_stamp": "20200411T183743.263+0700",
+                "energy_enjoy": 553.91,
+                "phase_1": 1.35,
+                "phase_2": 0.9,
+                "phase_3": 1.1
+            },
+            {
+                "time_stamp": "20200411T184237.590+0700",
+                "energy_enjoy": 553.2,
+                "phase_1": 1.35,
+                "phase_2": 0.88,
+                "phase_3": 1.1
+            },
+            {
+                "time_stamp": "20200411T184731.915+0700",
+                "energy_enjoy": 553.68,
+                "phase_1": 1.35,
+                "phase_2": 0.92,
+                "phase_3": 1.34
+            },
+            {
+                "time_stamp": "20200411T185226.242+0700",
+                "energy_enjoy": 556.39,
+                "phase_1": 1.37,
+                "phase_2": 1.33,
+                "phase_3": 1.05
+            },
+            {
+                "time_stamp": "20200411T185720.572+0700",
+                "energy_enjoy": 561.91,
+                "phase_1": 1.4,
+                "phase_2": 1.37,
+                "phase_3": 1.05
+            },
+            {
+                "time_stamp": "20200411T190214.903+0700",
+                "energy_enjoy": 572.38,
+                "phase_1": 1.47,
+                "phase_2": 0.85,
+                "phase_3": 1.08
+            },
+            {
+                "time_stamp": "20200411T190709.234+0700",
+                "energy_enjoy": 578.46,
+                "phase_1": 1.47,
+                "phase_2": 0.85,
+                "phase_3": 1.07
+            },
+            {
+                "time_stamp": "20200411T191203.562+0700",
+                "energy_enjoy": 578.42,
+                "phase_1": 1.44,
+                "phase_2": 0.88,
+                "phase_3": 1.07
+            },
+            {
+                "time_stamp": "20200411T191657.889+0700",
+                "energy_enjoy": 578.65,
+                "phase_1": 1.47,
+                "phase_2": 0.88,
+                "phase_3": 1.29
+            },
+            {
+                "time_stamp": "20200411T192152.221+0700",
+                "energy_enjoy": 584.76,
+                "phase_1": 1.44,
+                "phase_2": 1.35,
+                "phase_3": 1.34
+            },
+            {
+                "time_stamp": "20200411T192646.562+0700",
+                "energy_enjoy": 580.56,
+                "phase_1": 1.37,
+                "phase_2": 1.35,
+                "phase_3": 1.0
+            },
+            {
+                "time_stamp": "20200411T193140.890+0700",
+                "energy_enjoy": 557.49,
+                "phase_1": 1.38,
+                "phase_2": 0.85,
+                "phase_3": 1.05
+            },
+            {
+                "time_stamp": "20200411T193635.218+0700",
+                "energy_enjoy": 556.52,
+                "phase_1": 1.37,
+                "phase_2": 0.85,
+                "phase_3": 1.05
+            },
+            {
+                "time_stamp": "20200411T194129.546+0700",
+                "energy_enjoy": 555.51,
+                "phase_1": 1.35,
+                "phase_2": 0.88,
+                "phase_3": 1.08
+            },
+            {
+                "time_stamp": "20200411T194623.872+0700",
+                "energy_enjoy": 558.22,
+                "phase_1": 1.38,
+                "phase_2": 1.35,
+                "phase_3": 1.27
+            },
+            {
+                "time_stamp": "20200411T195118.202+0700",
+                "energy_enjoy": 563.19,
+                "phase_1": 1.4,
+                "phase_2": 1.38,
+                "phase_3": 1.05
+            },
+            {
+                "time_stamp": "20200411T195612.533+0700",
+                "energy_enjoy": 567.57,
+                "phase_1": 1.4,
+                "phase_2": 0.88,
+                "phase_3": 1.1
+            },
+            {
+                "time_stamp": "20200411T200106.864+0700",
+                "energy_enjoy": 578.5,
+                "phase_1": 1.45,
+                "phase_2": 0.88,
+                "phase_3": 1.1
+            },
+            {
+                "time_stamp": "20200411T200601.192+0700",
+                "energy_enjoy": 580.5,
+                "phase_1": 1.45,
+                "phase_2": 0.9,
+                "phase_3": 1.1
+            },
+            {
+                "time_stamp": "20200411T201055.523+0700",
+                "energy_enjoy": 580.24,
+                "phase_1": 1.45,
+                "phase_2": 0.9,
+                "phase_3": 1.1
+            },
+            {
+                "time_stamp": "20200411T201549.851+0700",
+                "energy_enjoy": 584.64,
+                "phase_1": 1.47,
+                "phase_2": 1.38,
+                "phase_3": 1.1
+            },
+            {
+                "time_stamp": "20200411T202044.179+0700",
+                "energy_enjoy": 587.37,
+                "phase_1": 1.47,
+                "phase_2": 1.4,
+                "phase_3": 1.15
+            },
+            {
+                "time_stamp": "20200411T202538.509+0700",
+                "energy_enjoy": 561.32,
+                "phase_1": 1.35,
+                "phase_2": 0.9,
+                "phase_3": 1.13
+            },
+            {
+                "time_stamp": "20200411T203032.834+0700",
+                "energy_enjoy": 555.7,
+                "phase_1": 1.38,
+                "phase_2": 0.9,
+                "phase_3": 1.13
+            },
+            {
+                "time_stamp": "20200411T203527.163+0700",
+                "energy_enjoy": 556.18,
+                "phase_1": 1.38,
+                "phase_2": 0.93,
+                "phase_3": 1.34
+            },
+            {
+                "time_stamp": "20200411T204021.487+0700",
+                "energy_enjoy": 556.41,
+                "phase_1": 1.38,
+                "phase_2": 1.28,
+                "phase_3": 1.13
+            },
+            {
+                "time_stamp": "20200411T204515.815+0700",
+                "energy_enjoy": 562.9,
+                "phase_1": 1.43,
+                "phase_2": 1.38,
+                "phase_3": 1.1
+            },
+            {
+                "time_stamp": "20200411T205010.143+0700",
+                "energy_enjoy": 564.94,
+                "phase_1": 1.43,
+                "phase_2": 0.88,
+                "phase_3": 1.08
+            },
+            {
+                "time_stamp": "20200411T205504.470+0700",
+                "energy_enjoy": 576.0,
+                "phase_1": 1.43,
+                "phase_2": 0.88,
+                "phase_3": 1.08
+            },
+            {
+                "time_stamp": "20200411T205958.800+0700",
+                "energy_enjoy": 579.94,
+                "phase_1": 1.47,
+                "phase_2": 0.9,
+                "phase_3": 1.08
+            },
+            {
+                "time_stamp": "20200411T210453.130+0700",
+                "energy_enjoy": 583.44,
+                "phase_1": 1.47,
+                "phase_2": 1.21,
+                "phase_3": 1.32
+            },
+            {
+                "time_stamp": "20200411T210947.456+0700",
+                "energy_enjoy": 587.41,
+                "phase_1": 1.5,
+                "phase_2": 1.64,
+                "phase_3": 1.08
+            },
+            {
+                "time_stamp": "20200411T211441.781+0700",
+                "energy_enjoy": 591.53,
+                "phase_1": 1.5,
+                "phase_2": 1.69,
+                "phase_3": 1.08
+            },
+            {
+                "time_stamp": "20200411T211936.109+0700",
+                "energy_enjoy": 567.93,
+                "phase_1": 1.38,
+                "phase_2": 0.88,
+                "phase_3": 1.08
+            },
+            {
+                "time_stamp": "20200411T212430.436+0700",
+                "energy_enjoy": 557.4,
+                "phase_1": 1.38,
+                "phase_2": 0.88,
+                "phase_3": 1.08
+            },
+            {
+                "time_stamp": "20200411T212924.769+0700",
+                "energy_enjoy": 557.54,
+                "phase_1": 1.4,
+                "phase_2": 0.9,
+                "phase_3": 1.08
+            },
+            {
+                "time_stamp": "20200411T213419.096+0700",
+                "energy_enjoy": 555.24,
+                "phase_1": 1.36,
+                "phase_2": 1.24,
+                "phase_3": 0.99
+            },
+            {
+                "time_stamp": "20200411T213913.427+0700",
+                "energy_enjoy": 555.44,
+                "phase_1": 1.36,
+                "phase_2": 1.34,
+                "phase_3": 0.99
+            },
+            {
+                "time_stamp": "20200411T214407.763+0700",
+                "energy_enjoy": 551.44,
+                "phase_1": 1.41,
+                "phase_2": 0.84,
+                "phase_3": 1.06
+            },
+            {
+                "time_stamp": "20200411T214902.085+0700",
+                "energy_enjoy": 563.0,
+                "phase_1": 1.41,
+                "phase_2": 0.85,
+                "phase_3": 1.04
+            },
+            {
+                "time_stamp": "20200411T215356.410+0700",
+                "energy_enjoy": 569.33,
+                "phase_1": 1.41,
+                "phase_2": 0.87,
+                "phase_3": 1.49
+            },
+            {
+                "time_stamp": "20200411T215850.741+0700",
+                "energy_enjoy": 570.4,
+                "phase_1": 1.45,
+                "phase_2": 1.2,
+                "phase_3": 1.04
+            },
+            {
+                "time_stamp": "20200411T220345.069+0700",
+                "energy_enjoy": 576.21,
+                "phase_1": 1.43,
+                "phase_2": 1.34,
+                "phase_3": 1.04
+            },
+            {
+                "time_stamp": "20200411T220839.400+0700",
+                "energy_enjoy": 575.02,
+                "phase_1": 1.41,
+                "phase_2": 0.85,
+                "phase_3": 1.11
+            },
+            {
+                "time_stamp": "20200411T221333.724+0700",
+                "energy_enjoy": 560.98,
+                "phase_1": 1.34,
+                "phase_2": 0.87,
+                "phase_3": 1.09
+            },
+            {
+                "time_stamp": "20200411T221828.051+0700",
+                "energy_enjoy": 547.08,
+                "phase_1": 1.34,
+                "phase_2": 0.87,
+                "phase_3": 1.09
+            },
+            {
+                "time_stamp": "20200411T222322.381+0700",
+                "energy_enjoy": 546.92,
+                "phase_1": 1.36,
+                "phase_2": 0.89,
+                "phase_3": 1.11
+            },
+            {
+                "time_stamp": "20200411T222816.706+0700",
+                "energy_enjoy": 552.83,
+                "phase_1": 1.36,
+                "phase_2": 1.34,
+                "phase_3": 1.11
+            },
+            {
+                "time_stamp": "20200411T223311.036+0700",
+                "energy_enjoy": 555.54,
+                "phase_1": 1.36,
+                "phase_2": 1.39,
+                "phase_3": 1.11
+            },
+            {
+                "time_stamp": "20200411T223805.367+0700",
+                "energy_enjoy": 548.65,
+                "phase_1": 1.36,
+                "phase_2": 0.87,
+                "phase_3": 1.11
+            },
+            {
+                "time_stamp": "20200411T224259.695+0700",
+                "energy_enjoy": 558.95,
+                "phase_1": 1.41,
+                "phase_2": 0.89,
+                "phase_3": 1.12
+            },
+            {
+                "time_stamp": "20200411T224754.025+0700",
+                "energy_enjoy": 572.31,
+                "phase_1": 1.44,
+                "phase_2": 0.89,
+                "phase_3": 1.33
+            },
+            {
+                "time_stamp": "20200411T225248.353+0700",
+                "energy_enjoy": 575.62,
+                "phase_1": 1.46,
+                "phase_2": 1.32,
+                "phase_3": 1.04
+            },
+            {
+                "time_stamp": "20200411T225742.681+0700",
+                "energy_enjoy": 580.42,
+                "phase_1": 1.44,
+                "phase_2": 1.34,
+                "phase_3": 1.05
+            },
+            {
+                "time_stamp": "20200411T230237.019+0700",
+                "energy_enjoy": 576.24,
+                "phase_1": 1.46,
+                "phase_2": 0.87,
+                "phase_3": 1.09
+            },
+            {
+                "time_stamp": "20200411T230731.348+0700",
+                "energy_enjoy": 566.77,
+                "phase_1": 1.37,
+                "phase_2": 0.89,
+                "phase_3": 1.31
+            },
+            {
+                "time_stamp": "20200411T231225.678+0700",
+                "energy_enjoy": 551.03,
+                "phase_1": 1.37,
+                "phase_2": 0.89,
+                "phase_3": 1.28
+            },
+            {
+                "time_stamp": "20200411T231720.005+0700",
+                "energy_enjoy": 553.45,
+                "phase_1": 1.34,
+                "phase_2": 1.3,
+                "phase_3": 1.26
+            },
+            {
+                "time_stamp": "20200411T232214.335+0700",
+                "energy_enjoy": 558.5,
+                "phase_1": 1.39,
+                "phase_2": 1.34,
+                "phase_3": 1.04
+            },
+            {
+                "time_stamp": "20200411T232708.665+0700",
+                "energy_enjoy": 557.43,
+                "phase_1": 1.34,
+                "phase_2": 0.87,
+                "phase_3": 1.07
+            },
+            {
+                "time_stamp": "20200411T233202.996+0700",
+                "energy_enjoy": 549.81,
+                "phase_1": 1.34,
+                "phase_2": 0.87,
+                "phase_3": 1.05
+            },
+            {
+                "time_stamp": "20200411T233657.325+0700",
+                "energy_enjoy": 557.58,
+                "phase_1": 1.39,
+                "phase_2": 0.87,
+                "phase_3": 1.07
+            },
+            {
+                "time_stamp": "20200411T234151.653+0700",
+                "energy_enjoy": 573.61,
+                "phase_1": 1.44,
+                "phase_2": 0.92,
+                "phase_3": 1.31
+            },
+            {
+                "time_stamp": "20200411T234645.982+0700",
+                "energy_enjoy": 578.51,
+                "phase_1": 1.48,
+                "phase_2": 1.34,
+                "phase_3": 1.05
+            },
+            {
+                "time_stamp": "20200411T235140.310+0700",
+                "energy_enjoy": 581.46,
+                "phase_1": 1.44,
+                "phase_2": 1.34,
+                "phase_3": 1.05
+            },
+            {
+                "time_stamp": "20200411T235634.637+0700",
+                "energy_enjoy": 577.39,
+                "phase_1": 1.44,
+                "phase_2": 0.87,
+                "phase_3": 1.09
+            },
+            {
+                "time_stamp": "20200412T000128.967+0700",
+                "energy_enjoy": 574.4,
+                "phase_1": 1.42,
+                "phase_2": 0.9,
+                "phase_3": 1.07
+            },
+            {
+                "time_stamp": "20200412T000623.294+0700",
+                "energy_enjoy": 558.53,
+                "phase_1": 1.37,
+                "phase_2": 1.53,
+                "phase_3": 1.07
+            },
+            {
+                "time_stamp": "20200412T001117.618+0700",
+                "energy_enjoy": 563.19,
+                "phase_1": 1.42,
+                "phase_2": 1.94,
+                "phase_3": 1.07
+            },
+            {
+                "time_stamp": "20200412T001611.946+0700",
+                "energy_enjoy": 568.2,
+                "phase_1": 1.37,
+                "phase_2": 1.32,
+                "phase_3": 1.05
+            },
+            {
+                "time_stamp": "20200412T002106.276+0700",
+                "energy_enjoy": 555.37,
+                "phase_1": 1.37,
+                "phase_2": 0.87,
+                "phase_3": 1.07
+            },
+            {
+                "time_stamp": "20200412T002600.605+0700",
+                "energy_enjoy": 552.13,
+                "phase_1": 1.35,
+                "phase_2": 0.87,
+                "phase_3": 1.07
+            },
+            {
+                "time_stamp": "20200412T003054.934+0700",
+                "energy_enjoy": 554.02,
+                "phase_1": 1.39,
+                "phase_2": 0.87,
+                "phase_3": 1.1
+            },
+            {
+                "time_stamp": "20200412T003549.265+0700",
+                "energy_enjoy": 574.8,
+                "phase_1": 1.44,
+                "phase_2": 1.35,
+                "phase_3": 1.33
+            },
+            {
+                "time_stamp": "20200412T004043.596+0700",
+                "energy_enjoy": 583.16,
+                "phase_1": 1.47,
+                "phase_2": 1.32,
+                "phase_3": 1.07
+            },
+            {
+                "time_stamp": "20200412T004537.927+0700",
+                "energy_enjoy": 579.03,
+                "phase_1": 1.42,
+                "phase_2": 0.87,
+                "phase_3": 1.1
+            },
+            {
+                "time_stamp": "20200412T005032.249+0700",
+                "energy_enjoy": 575.9,
+                "phase_1": 1.46,
+                "phase_2": 0.87,
+                "phase_3": 1.14
+            },
+            {
+                "time_stamp": "20200412T005526.576+0700",
+                "energy_enjoy": 575.7,
+                "phase_1": 1.42,
+                "phase_2": 0.87,
+                "phase_3": 1.1
+            },
+            {
+                "time_stamp": "20200412T010020.902+0700",
+                "energy_enjoy": 561.06,
+                "phase_1": 1.39,
+                "phase_2": 1.32,
+                "phase_3": 1.07
+            },
+            {
+                "time_stamp": "20200412T010515.228+0700",
+                "energy_enjoy": 560.73,
+                "phase_1": 1.39,
+                "phase_2": 1.35,
+                "phase_3": 1.05
+            },
+            {
+                "time_stamp": "20200412T011009.557+0700",
+                "energy_enjoy": 555.45,
+                "phase_1": 1.37,
+                "phase_2": 0.85,
+                "phase_3": 1.07
+            },
+            {
+                "time_stamp": "20200412T011503.885+0700",
+                "energy_enjoy": 554.36,
+                "phase_1": 1.35,
+                "phase_2": 0.88,
+                "phase_3": 1.07
+            },
+            {
+                "time_stamp": "20200412T011958.214+0700",
+                "energy_enjoy": 554.34,
+                "phase_1": 1.35,
+                "phase_2": 0.88,
+                "phase_3": 1.07
+            },
+            {
+                "time_stamp": "20200412T012452.541+0700",
+                "energy_enjoy": 558.38,
+                "phase_1": 1.47,
+                "phase_2": 1.33,
+                "phase_3": 1.07
+            },
+            {
+                "time_stamp": "20200412T012946.866+0700",
+                "energy_enjoy": 581.73,
+                "phase_1": 1.44,
+                "phase_2": 1.37,
+                "phase_3": 1.05
+            },
+            {
+                "time_stamp": "20200412T013441.192+0700",
+                "energy_enjoy": 579.03,
+                "phase_1": 1.44,
+                "phase_2": 0.88,
+                "phase_3": 1.07
+            },
+            {
+                "time_stamp": "20200412T013935.522+0700",
+                "energy_enjoy": 576.15,
+                "phase_1": 1.44,
+                "phase_2": 0.9,
+                "phase_3": 1.1
+            },
+            {
+                "time_stamp": "20200412T014429.845+0700",
+                "energy_enjoy": 576.94,
+                "phase_1": 1.45,
+                "phase_2": 0.9,
+                "phase_3": 1.31
+            },
+            {
+                "time_stamp": "20200412T014924.175+0700",
+                "energy_enjoy": 578.33,
+                "phase_1": 1.47,
+                "phase_2": 1.33,
+                "phase_3": 1.1
+            },
+            {
+                "time_stamp": "20200412T015418.501+0700",
+                "energy_enjoy": 567.44,
+                "phase_1": 1.37,
+                "phase_2": 1.37,
+                "phase_3": 1.29
+            },
+            {
+                "time_stamp": "20200412T015912.830+0700",
+                "energy_enjoy": 562.0,
+                "phase_1": 1.37,
+                "phase_2": 1.16,
+                "phase_3": 1.07
+            },
+            {
+                "time_stamp": "20200412T020407.157+0700",
+                "energy_enjoy": 559.1,
+                "phase_1": 1.37,
+                "phase_2": 1.16,
+                "phase_3": 1.1
+            },
+            {
+                "time_stamp": "20200412T020901.488+0700",
+                "energy_enjoy": 557.87,
+                "phase_1": 1.37,
+                "phase_2": 1.18,
+                "phase_3": 1.07
+            },
+            {
+                "time_stamp": "20200412T021355.816+0700",
+                "energy_enjoy": 556.46,
+                "phase_1": 1.35,
+                "phase_2": 1.28,
+                "phase_3": 1.07
+            },
+            {
+                "time_stamp": "20200412T021850.144+0700",
+                "energy_enjoy": 559.95,
+                "phase_1": 1.37,
+                "phase_2": 1.37,
+                "phase_3": 1.07
+            },
+            {
+                "time_stamp": "20200412T022344.467+0700",
+                "energy_enjoy": 578.37,
+                "phase_1": 1.49,
+                "phase_2": 1.37,
+                "phase_3": 1.1
+            },
+            {
+                "time_stamp": "20200412T022838.801+0700",
+                "energy_enjoy": 577.43,
+                "phase_1": 1.47,
+                "phase_2": 0.9,
+                "phase_3": 1.12
+            },
+            {
+                "time_stamp": "20200412T023333.132+0700",
+                "energy_enjoy": 577.48,
+                "phase_1": 1.45,
+                "phase_2": 0.9,
+                "phase_3": 1.1
+            },
+            {
+                "time_stamp": "20200412T023827.460+0700",
+                "energy_enjoy": 577.76,
+                "phase_1": 1.47,
+                "phase_2": 0.9,
+                "phase_3": 1.1
+            },
+            {
+                "time_stamp": "20200412T024321.789+0700",
+                "energy_enjoy": 582.49,
+                "phase_1": 1.47,
+                "phase_2": 1.35,
+                "phase_3": 1.1
+            },
+            {
+                "time_stamp": "20200412T024816.115+0700",
+                "energy_enjoy": 571.32,
+                "phase_1": 1.4,
+                "phase_2": 1.37,
+                "phase_3": 1.05
+            },
+            {
+                "time_stamp": "20200412T025310.443+0700",
+                "energy_enjoy": 561.53,
+                "phase_1": 1.38,
+                "phase_2": 0.85,
+                "phase_3": 1.05
+            },
+            {
+                "time_stamp": "20200412T025804.766+0700",
+                "energy_enjoy": 557.24,
+                "phase_1": 1.35,
+                "phase_2": 0.85,
+                "phase_3": 1.05
+            },
+            {
+                "time_stamp": "20200412T030259.093+0700",
+                "energy_enjoy": 557.16,
+                "phase_1": 1.38,
+                "phase_2": 0.88,
+                "phase_3": 1.05
+            },
+            {
+                "time_stamp": "20200412T030753.421+0700",
+                "energy_enjoy": 557.97,
+                "phase_1": 1.38,
+                "phase_2": 1.09,
+                "phase_3": 1.03
+            },
+            {
+                "time_stamp": "20200412T031247.749+0700",
+                "energy_enjoy": 565.31,
+                "phase_1": 1.38,
+                "phase_2": 1.33,
+                "phase_3": 1.01
+            },
+            {
+                "time_stamp": "20200412T031742.087+0700",
+                "energy_enjoy": 579.13,
+                "phase_1": 1.47,
+                "phase_2": 1.33,
+                "phase_3": 1.03
+            },
+            {
+                "time_stamp": "20200412T032236.420+0700",
+                "energy_enjoy": 585.82,
+                "phase_1": 1.47,
+                "phase_2": 0.86,
+                "phase_3": 1.08
+            },
+            {
+                "time_stamp": "20200412T032730.743+0700",
+                "energy_enjoy": 582.58,
+                "phase_1": 1.5,
+                "phase_2": 0.88,
+                "phase_3": 1.08
+            },
+            {
+                "time_stamp": "20200412T033225.072+0700",
+                "energy_enjoy": 582.15,
+                "phase_1": 1.45,
+                "phase_2": 0.88,
+                "phase_3": 1.1
+            },
+            {
+                "time_stamp": "20200412T033719.406+0700",
+                "energy_enjoy": 584.6,
+                "phase_1": 1.47,
+                "phase_2": 1.33,
+                "phase_3": 1.13
+            },
+            {
+                "time_stamp": "20200412T034213.738+0700",
+                "energy_enjoy": 581.15,
+                "phase_1": 1.4,
+                "phase_2": 1.38,
+                "phase_3": 1.34
+            },
+            {
+                "time_stamp": "20200412T034708.068+0700",
+                "energy_enjoy": 566.11,
+                "phase_1": 1.4,
+                "phase_2": 1.36,
+                "phase_3": 1.08
+            },
+            {
+                "time_stamp": "20200412T035202.404+0700",
+                "energy_enjoy": 565.99,
+                "phase_1": 1.38,
+                "phase_2": 1.38,
+                "phase_3": 1.08
+            },
+            {
+                "time_stamp": "20200412T035656.739+0700",
+                "energy_enjoy": 560.45,
+                "phase_1": 1.38,
+                "phase_2": 0.88,
+                "phase_3": 1.1
+            },
+            {
+                "time_stamp": "20200412T040151.084+0700",
+                "energy_enjoy": 558.22,
+                "phase_1": 1.36,
+                "phase_2": 0.9,
+                "phase_3": 1.1
+            },
+            {
+                "time_stamp": "20200412T040645.415+0700",
+                "energy_enjoy": 558.17,
+                "phase_1": 1.38,
+                "phase_2": 0.93,
+                "phase_3": 1.68
+            },
+            {
+                "time_stamp": "20200412T041139.739+0700",
+                "energy_enjoy": 568.86,
+                "phase_1": 1.45,
+                "phase_2": 1.38,
+                "phase_3": 1.34
+            },
+            {
+                "time_stamp": "20200412T041634.068+0700",
+                "energy_enjoy": 588.7,
+                "phase_1": 1.45,
+                "phase_2": 1.38,
+                "phase_3": 1.37
+            },
+            {
+                "time_stamp": "20200412T042128.398+0700",
+                "energy_enjoy": 588.6,
+                "phase_1": 1.49,
+                "phase_2": 1.38,
+                "phase_3": 1.12
+            },
+            {
+                "time_stamp": "20200412T042622.724+0700",
+                "energy_enjoy": 586.36,
+                "phase_1": 1.45,
+                "phase_2": 1.38,
+                "phase_3": 1.15
+            },
+            {
+                "time_stamp": "20200412T043117.053+0700",
+                "energy_enjoy": 586.54,
+                "phase_1": 1.45,
+                "phase_2": 1.38,
+                "phase_3": 1.12
+            },
+            {
+                "time_stamp": "20200412T043611.382+0700",
+                "energy_enjoy": 586.21,
+                "phase_1": 1.38,
+                "phase_2": 1.35,
+                "phase_3": 1.05
+            },
+            {
+                "time_stamp": "20200412T044105.710+0700",
+                "energy_enjoy": 563.73,
+                "phase_1": 1.4,
+                "phase_2": 1.35,
+                "phase_3": 1.05
+            },
+            {
+                "time_stamp": "20200412T044600.047+0700",
+                "energy_enjoy": 563.81,
+                "phase_1": 1.4,
+                "phase_2": 1.33,
+                "phase_3": 1.03
+            },
+            {
+                "time_stamp": "20200412T045054.379+0700",
+                "energy_enjoy": 562.93,
+                "phase_1": 1.38,
+                "phase_2": 1.33,
+                "phase_3": 1.05
+            },
+            {
+                "time_stamp": "20200412T045548.707+0700",
+                "energy_enjoy": 563.83,
+                "phase_1": 1.38,
+                "phase_2": 1.31,
+                "phase_3": 1.08
+            },
+            {
+                "time_stamp": "20200412T050043.038+0700",
+                "energy_enjoy": 564.51,
+                "phase_1": 1.4,
+                "phase_2": 1.33,
+                "phase_3": 1.34
+            },
+            {
+                "time_stamp": "20200412T050537.364+0700",
+                "energy_enjoy": 566.21,
+                "phase_1": 1.43,
+                "phase_2": 1.33,
+                "phase_3": 1.22
+            },
+            {
+                "time_stamp": "20200412T051031.690+0700",
+                "energy_enjoy": 584.12,
+                "phase_1": 1.47,
+                "phase_2": 1.31,
+                "phase_3": 1.1
+            },
+            {
+                "time_stamp": "20200412T051526.017+0700",
+                "energy_enjoy": 586.98,
+                "phase_1": 1.47,
+                "phase_2": 1.31,
+                "phase_3": 1.05
+            },
+            {
+                "time_stamp": "20200412T052020.344+0700",
+                "energy_enjoy": 586.5,
+                "phase_1": 1.5,
+                "phase_2": 1.33,
+                "phase_3": 1.1
+            },
+            {
+                "time_stamp": "20200412T052514.675+0700",
+                "energy_enjoy": 585.48,
+                "phase_1": 1.45,
+                "phase_2": 1.28,
+                "phase_3": 1.05
+            },
+            {
+                "time_stamp": "20200412T053009.002+0700",
+                "energy_enjoy": 586.14,
+                "phase_1": 1.47,
+                "phase_2": 1.28,
+                "phase_3": 1.03
+            },
+            {
+                "time_stamp": "20200412T053503.330+0700",
+                "energy_enjoy": 568.73,
+                "phase_1": 1.4,
+                "phase_2": 1.26,
+                "phase_3": 1.03
+            },
+            {
+                "time_stamp": "20200412T053957.657+0700",
+                "energy_enjoy": 563.55,
+                "phase_1": 1.38,
+                "phase_2": 1.26,
+                "phase_3": 1.01
+            },
+            {
+                "time_stamp": "20200412T054451.987+0700",
+                "energy_enjoy": 563.9,
+                "phase_1": 1.4,
+                "phase_2": 1.28,
+                "phase_3": 1.01
+            },
+            {
+                "time_stamp": "20200412T054946.315+0700",
+                "energy_enjoy": 548.34,
+                "phase_1": 1.14,
+                "phase_2": 1.21,
+                "phase_3": 0.81
+            },
+            {
+                "time_stamp": "20200412T055440.641+0700",
+                "energy_enjoy": 482.95,
+                "phase_1": 1.12,
+                "phase_2": 1.24,
+                "phase_3": 0.81
+            },
+            {
+                "time_stamp": "20200412T055934.968+0700",
+                "energy_enjoy": 483.06,
+                "phase_1": 1.14,
+                "phase_2": 1.26,
+                "phase_3": 0.84
+            },
+            {
+                "time_stamp": "20200412T060429.306+0700",
+                "energy_enjoy": 498.7,
+                "phase_1": 1.19,
+                "phase_2": 1.24,
+                "phase_3": 0.84
+            },
+            {
+                "time_stamp": "20200412T060923.649+0700",
+                "energy_enjoy": 505.06,
+                "phase_1": 1.19,
+                "phase_2": 1.26,
+                "phase_3": 0.93
+            },
+            {
+                "time_stamp": "20200412T061417.986+0700",
+                "energy_enjoy": 504.01,
+                "phase_1": 1.19,
+                "phase_2": 1.28,
+                "phase_3": 0.93
+            },
+            {
+                "time_stamp": "20200412T061912.316+0700",
+                "energy_enjoy": 524.46,
+                "phase_1": 1.35,
+                "phase_2": 1.28,
+                "phase_3": 1.27
+            },
+            {
+                "time_stamp": "20200412T062406.647+0700",
+                "energy_enjoy": 556.28,
+                "phase_1": 1.35,
+                "phase_2": 1.28,
+                "phase_3": 1.03
+            },
+            {
+                "time_stamp": "20200412T062900.977+0700",
+                "energy_enjoy": 542.04,
+                "phase_1": 1.31,
+                "phase_2": 1.26,
+                "phase_3": 0.98
+            },
+            {
+                "time_stamp": "20200412T063355.308+0700",
+                "energy_enjoy": 533.74,
+                "phase_1": 1.31,
+                "phase_2": 1.26,
+                "phase_3": 0.93
+            },
+            {
+                "time_stamp": "20200412T063849.634+0700",
+                "energy_enjoy": 534.79,
+                "phase_1": 1.31,
+                "phase_2": 1.23,
+                "phase_3": 0.96
+            },
+            {
+                "time_stamp": "20200412T064343.965+0700",
+                "energy_enjoy": 485.0,
+                "phase_1": 1.12,
+                "phase_2": 1.23,
+                "phase_3": 0.84
+            },
+            {
+                "time_stamp": "20200412T064838.297+0700",
+                "energy_enjoy": 484.01,
+                "phase_1": 1.12,
+                "phase_2": 1.59,
+                "phase_3": 1.1
+            },
+            {
+                "time_stamp": "20200412T065332.621+0700",
+                "energy_enjoy": 483.22,
+                "phase_1": 1.12,
+                "phase_2": 1.56,
+                "phase_3": 0.86
+            },
+            {
+                "time_stamp": "20200412T065826.950+0700",
+                "energy_enjoy": 508.87,
+                "phase_1": 1.66,
+                "phase_2": 1.63,
+                "phase_3": 0.96
+            },
+            {
+                "time_stamp": "20200412T070321.282+0700",
+                "energy_enjoy": 639.95,
+                "phase_1": 1.68,
+                "phase_2": 1.35,
+                "phase_3": 0.98
+            },
+            {
+                "time_stamp": "20200412T070815.612+0700",
+                "energy_enjoy": 637.8,
+                "phase_1": 1.63,
+                "phase_2": 1.33,
+                "phase_3": 0.95
+            },
+            {
+                "time_stamp": "20200412T071309.937+0700",
+                "energy_enjoy": 636.13,
+                "phase_1": 1.63,
+                "phase_2": 1.35,
+                "phase_3": 0.95
+            },
+            {
+                "time_stamp": "20200412T071804.271+0700",
+                "energy_enjoy": 638.89,
+                "phase_1": 1.66,
+                "phase_2": 2.01,
+                "phase_3": 1.0
+            },
+            {
+                "time_stamp": "20200412T072258.603+0700",
+                "energy_enjoy": 637.04,
+                "phase_1": 1.61,
+                "phase_2": 2.01,
+                "phase_3": 0.98
+            },
+            {
+                "time_stamp": "20200412T072752.931+0700",
+                "energy_enjoy": 625.23,
+                "phase_1": 1.58,
+                "phase_2": 2.01,
+                "phase_3": 1.0
+            },
+            {
+                "time_stamp": "20200412T073247.259+0700",
+                "energy_enjoy": 616.33,
+                "phase_1": 1.56,
+                "phase_2": 1.35,
+                "phase_3": 1.03
+            },
+            {
+                "time_stamp": "20200412T073741.587+0700",
+                "energy_enjoy": 615.15,
+                "phase_1": 1.56,
+                "phase_2": 1.35,
+                "phase_3": 1.0
+            },
+            {
+                "time_stamp": "20200412T074235.914+0700",
+                "energy_enjoy": 614.86,
+                "phase_1": 1.56,
+                "phase_2": 1.37,
+                "phase_3": 1.24
+            },
+            {
+                "time_stamp": "20200412T074730.246+0700",
+                "energy_enjoy": 613.38,
+                "phase_1": 1.56,
+                "phase_2": 1.37,
+                "phase_3": 1.02
+            },
+            {
+                "time_stamp": "20200412T075224.576+0700",
+                "energy_enjoy": 528.42,
+                "phase_1": 1.16,
+                "phase_2": 1.3,
+                "phase_3": 0.9
+            },
+            {
+                "time_stamp": "20200412T075718.907+0700",
+                "energy_enjoy": 493.6,
+                "phase_1": 1.18,
+                "phase_2": 1.27,
+                "phase_3": 0.93
+            },
+            {
+                "time_stamp": "20200412T080213.236+0700",
+                "energy_enjoy": 493.88,
+                "phase_1": 1.15,
+                "phase_2": 1.29,
+                "phase_3": 0.93
+            },
+            {
+                "time_stamp": "20200412T080707.564+0700",
+                "energy_enjoy": 493.05,
+                "phase_1": 1.18,
+                "phase_2": 1.32,
+                "phase_3": 1.19
+            },
+            {
+                "time_stamp": "20200412T081201.893+0700",
+                "energy_enjoy": 493.5,
+                "phase_1": 1.15,
+                "phase_2": 1.29,
+                "phase_3": 0.93
+            },
+            {
+                "time_stamp": "20200412T081656.219+0700",
+                "energy_enjoy": 488.69,
+                "phase_1": 1.08,
+                "phase_2": 1.29,
+                "phase_3": 0.9
+            },
+            {
+                "time_stamp": "20200412T082150.543+0700",
+                "energy_enjoy": 471.42,
+                "phase_1": 1.13,
+                "phase_2": 1.27,
+                "phase_3": 0.93
+            },
+            {
+                "time_stamp": "20200412T082644.881+0700",
+                "energy_enjoy": 472.15,
+                "phase_1": 1.11,
+                "phase_2": 1.27,
+                "phase_3": 0.93
+            },
+            {
+                "time_stamp": "20200412T083139.223+0700",
+                "energy_enjoy": 471.55,
+                "phase_1": 1.1,
+                "phase_2": 1.29,
+                "phase_3": 0.9
+            },
+            {
+                "time_stamp": "20200412T083633.559+0700",
+                "energy_enjoy": 472.6,
+                "phase_1": 1.1,
+                "phase_2": 1.27,
+                "phase_3": 0.88
+            },
+            {
+                "time_stamp": "20200412T084127.890+0700",
+                "energy_enjoy": 472.69,
+                "phase_1": 1.1,
+                "phase_2": 1.29,
+                "phase_3": 1.09
+            },
+            {
+                "time_stamp": "20200412T084622.216+0700",
+                "energy_enjoy": 475.11,
+                "phase_1": 1.13,
+                "phase_2": 1.29,
+                "phase_3": 0.9
+            },
+            {
+                "time_stamp": "20200412T085116.547+0700",
+                "energy_enjoy": 490.02,
+                "phase_1": 1.15,
+                "phase_2": 1.29,
+                "phase_3": 0.9
+            },
+            {
+                "time_stamp": "20200412T085610.884+0700",
+                "energy_enjoy": 485.31,
+                "phase_1": 1.15,
+                "phase_2": 0.82,
+                "phase_3": 0.92
+            },
+            {
+                "time_stamp": "20200412T090105.218+0700",
+                "energy_enjoy": 484.38,
+                "phase_1": 1.13,
+                "phase_2": 0.84,
+                "phase_3": 0.92
+            },
+            {
+                "time_stamp": "20200412T090559.550+0700",
+                "energy_enjoy": 482.14,
+                "phase_1": 1.12,
+                "phase_2": 0.82,
+                "phase_3": 0.9
+            },
+            {
+                "time_stamp": "20200412T091053.876+0700",
+                "energy_enjoy": 485.04,
+                "phase_1": 1.15,
+                "phase_2": 1.26,
+                "phase_3": 0.85
+            },
+            {
+                "time_stamp": "20200412T091548.205+0700",
+                "energy_enjoy": 469.95,
+                "phase_1": 1.05,
+                "phase_2": 1.31,
+                "phase_3": 1.09
+            },
+            {
+                "time_stamp": "20200412T092042.540+0700",
+                "energy_enjoy": 466.15,
+                "phase_1": 1.03,
+                "phase_2": 0.84,
+                "phase_3": 1.13
+            },
+            {
+                "time_stamp": "20200412T092536.867+0700",
+                "energy_enjoy": 460.41,
+                "phase_1": 1.05,
+                "phase_2": 0.84,
+                "phase_3": 1.13
+            },
+            {
+                "time_stamp": "20200412T093031.198+0700",
+                "energy_enjoy": 460.27,
+                "phase_1": 1.05,
+                "phase_2": 0.87,
+                "phase_3": 1.37
+            },
+            {
+                "time_stamp": "20200412T093525.529+0700",
+                "energy_enjoy": 459.32,
+                "phase_1": 1.05,
+                "phase_2": 0.82,
+                "phase_3": 0.9
+            },
+            {
+                "time_stamp": "20200412T094019.855+0700",
+                "energy_enjoy": 467.08,
+                "phase_1": 1.12,
+                "phase_2": 1.29,
+                "phase_3": 0.92
+            },
+            {
+                "time_stamp": "20200412T094514.185+0700",
+                "energy_enjoy": 484.93,
+                "phase_1": 1.15,
+                "phase_2": 0.82,
+                "phase_3": 0.9
+            },
+            {
+                "time_stamp": "20200412T095008.512+0700",
+                "energy_enjoy": 480.37,
+                "phase_1": 1.12,
+                "phase_2": 0.82,
+                "phase_3": 0.9
+            },
+            {
+                "time_stamp": "20200412T095502.840+0700",
+                "energy_enjoy": 481.5,
+                "phase_1": 1.15,
+                "phase_2": 0.82,
+                "phase_3": 0.92
+            },
+            {
+                "time_stamp": "20200412T095957.170+0700",
+                "energy_enjoy": 480.68,
+                "phase_1": 1.15,
+                "phase_2": 0.84,
+                "phase_3": 0.9
+            },
+            {
+                "time_stamp": "20200412T100451.499+0700",
+                "energy_enjoy": 482.83,
+                "phase_1": 1.12,
+                "phase_2": 1.28,
+                "phase_3": 0.89
+            },
+            {
+                "time_stamp": "20200412T100945.831+0700",
+                "energy_enjoy": 469.62,
+                "phase_1": 1.08,
+                "phase_2": 1.33,
+                "phase_3": 0.9
+            },
+            {
+                "time_stamp": "20200412T101440.155+0700",
+                "energy_enjoy": 458.86,
+                "phase_1": 1.07,
+                "phase_2": 0.86,
+                "phase_3": 1.11
+            },
+            {
+                "time_stamp": "20200412T101934.485+0700",
+                "energy_enjoy": 458.26,
+                "phase_1": 1.03,
+                "phase_2": 0.84,
+                "phase_3": 0.87
+            },
+            {
+                "time_stamp": "20200412T102428.811+0700",
+                "energy_enjoy": 457.75,
+                "phase_1": 1.03,
+                "phase_2": 0.86,
+                "phase_3": 1.13
+            },
+            {
+                "time_stamp": "20200412T102923.137+0700",
+                "energy_enjoy": 457.92,
+                "phase_1": 1.05,
+                "phase_2": 1.24,
+                "phase_3": 0.89
+            },
+            {
+                "time_stamp": "20200412T103417.467+0700",
+                "energy_enjoy": 466.47,
+                "phase_1": 1.14,
+                "phase_2": 1.35,
+                "phase_3": 1.34
+            },
+            {
+                "time_stamp": "20200412T103911.794+0700",
+                "energy_enjoy": 478.89,
+                "phase_1": 1.12,
+                "phase_2": 0.84,
+                "phase_3": 1.1
+            },
+            {
+                "time_stamp": "20200412T104406.120+0700",
+                "energy_enjoy": 480.62,
+                "phase_1": 1.12,
+                "phase_2": 0.82,
+                "phase_3": 1.08
+            },
+            {
+                "time_stamp": "20200412T104900.449+0700",
+                "energy_enjoy": 479.39,
+                "phase_1": 1.1,
+                "phase_2": 0.79,
+                "phase_3": 0.82
+            },
+            {
+                "time_stamp": "20200412T105354.778+0700",
+                "energy_enjoy": 478.47,
+                "phase_1": 1.14,
+                "phase_2": 0.82,
+                "phase_3": 1.13
+            },
+            {
+                "time_stamp": "20200412T105849.112+0700",
+                "energy_enjoy": 483.84,
+                "phase_1": 1.14,
+                "phase_2": 1.31,
+                "phase_3": 0.8
+            },
+            {
+                "time_stamp": "20200412T110343.447+0700",
+                "energy_enjoy": 478.1,
+                "phase_1": 1.1,
+                "phase_2": 0.79,
+                "phase_3": 0.82
+            },
+            {
+                "time_stamp": "20200412T110837.770+0700",
+                "energy_enjoy": 457.08,
+                "phase_1": 1.07,
+                "phase_2": 0.79,
+                "phase_3": 0.85
+            },
+            {
+                "time_stamp": "20200412T111332.100+0700",
+                "energy_enjoy": 456.1,
+                "phase_1": 1.05,
+                "phase_2": 0.82,
+                "phase_3": 0.85
+            },
+            {
+                "time_stamp": "20200412T111826.426+0700",
+                "energy_enjoy": 456.23,
+                "phase_1": 1.07,
+                "phase_2": 0.84,
+                "phase_3": 1.1
+            },
+            {
+                "time_stamp": "20200412T112320.758+0700",
+                "energy_enjoy": 462.64,
+                "phase_1": 1.07,
+                "phase_2": 1.33,
+                "phase_3": 0.84
+            },
+            {
+                "time_stamp": "20200412T112815.086+0700",
+                "energy_enjoy": 458.83,
+                "phase_1": 1.05,
+                "phase_2": 0.79,
+                "phase_3": 0.87
+            },
+            {
+                "time_stamp": "20200412T113309.413+0700",
+                "energy_enjoy": 461.36,
+                "phase_1": 1.07,
+                "phase_2": 0.82,
+                "phase_3": 0.87
+            },
+            {
+                "time_stamp": "20200412T113803.745+0700",
+                "energy_enjoy": 481.15,
+                "phase_1": 1.17,
+                "phase_2": 0.84,
+                "phase_3": 1.1
+            },
+            {
+                "time_stamp": "20200412T114258.069+0700",
+                "energy_enjoy": 488.23,
+                "phase_1": 1.17,
+                "phase_2": 0.82,
+                "phase_3": 0.89
+            },
+            {
+                "time_stamp": "20200412T114752.398+0700",
+                "energy_enjoy": 494.12,
+                "phase_1": 1.17,
+                "phase_2": 1.33,
+                "phase_3": 0.87
+            },
+            {
+                "time_stamp": "20200412T115246.724+0700",
+                "energy_enjoy": 489.73,
+                "phase_1": 1.14,
+                "phase_2": 0.86,
+                "phase_3": 1.2
+            },
+            {
+                "time_stamp": "20200412T115741.052+0700",
+                "energy_enjoy": 486.63,
+                "phase_1": 1.17,
+                "phase_2": 0.82,
+                "phase_3": 0.89
+            },
+            {
+                "time_stamp": "20200412T120235.384+0700",
+                "energy_enjoy": 479.54,
+                "phase_1": 1.05,
+                "phase_2": 0.79,
+                "phase_3": 0.87
+            },
+            {
+                "time_stamp": "20200412T120729.710+0700",
+                "energy_enjoy": 455.92,
+                "phase_1": 1.03,
+                "phase_2": 0.82,
+                "phase_3": 0.87
+            },
+            {
+                "time_stamp": "20200412T121224.037+0700",
+                "energy_enjoy": 465.78,
+                "phase_1": 1.14,
+                "phase_2": 1.38,
+                "phase_3": 1.36
+            },
+            {
+                "time_stamp": "20200412T121718.376+0700",
+                "energy_enjoy": 480.31,
+                "phase_1": 1.12,
+                "phase_2": 0.84,
+                "phase_3": 0.89
+            },
+            {
+                "time_stamp": "20200412T122212.710+0700",
+                "energy_enjoy": 480.74,
+                "phase_1": 1.14,
+                "phase_2": 0.84,
+                "phase_3": 0.92
+            },
+            {
+                "time_stamp": "20200412T122707.038+0700",
+                "energy_enjoy": 482.66,
+                "phase_1": 1.12,
+                "phase_2": 1.12,
+                "phase_3": 0.92
+            },
+            {
+                "time_stamp": "20200412T123201.363+0700",
+                "energy_enjoy": 483.19,
+                "phase_1": 1.12,
+                "phase_2": 1.12,
+                "phase_3": 0.92
+            },
+            {
+                "time_stamp": "20200412T123655.690+0700",
+                "energy_enjoy": 489.71,
+                "phase_1": 1.17,
+                "phase_2": 1.61,
+                "phase_3": 0.89
+            },
+            {
+                "time_stamp": "20200412T124150.016+0700",
+                "energy_enjoy": 486.1,
+                "phase_1": 1.14,
+                "phase_2": 0.82,
+                "phase_3": 0.89
+            },
+            {
+                "time_stamp": "20200412T124644.345+0700",
+                "energy_enjoy": 479.75,
+                "phase_1": 1.12,
+                "phase_2": 0.82,
+                "phase_3": 0.87
+            },
+            {
+                "time_stamp": "20200412T125138.670+0700",
+                "energy_enjoy": 478.88,
+                "phase_1": 1.14,
+                "phase_2": 0.82,
+                "phase_3": 0.87
+            },
+            {
+                "time_stamp": "20200412T125632.996+0700",
+                "energy_enjoy": 478.83,
+                "phase_1": 1.12,
+                "phase_2": 0.82,
+                "phase_3": 0.87
+            },
+            {
+                "time_stamp": "20200412T130127.325+0700",
+                "energy_enjoy": 481.18,
+                "phase_1": 1.12,
+                "phase_2": 1.28,
+                "phase_3": 0.85
+            },
+            {
+                "time_stamp": "20200412T130621.651+0700",
+                "energy_enjoy": 479.45,
+                "phase_1": 1.09,
+                "phase_2": 0.81,
+                "phase_3": 1.06
+            },
+            {
+                "time_stamp": "20200412T131115.979+0700",
+                "energy_enjoy": 474.66,
+                "phase_1": 1.12,
+                "phase_2": 0.79,
+                "phase_3": 0.84
+            },
+            {
+                "time_stamp": "20200412T131610.310+0700",
+                "energy_enjoy": 470.17,
+                "phase_1": 1.05,
+                "phase_2": 0.79,
+                "phase_3": 0.82
+            },
+            {
+                "time_stamp": "20200412T132104.641+0700",
+                "energy_enjoy": 454.61,
+                "phase_1": 1.02,
+                "phase_2": 0.77,
+                "phase_3": 0.82
+            },
+            {
+                "time_stamp": "20200412T132558.970+0700",
+                "energy_enjoy": 458.39,
+                "phase_1": 1.09,
+                "phase_2": 1.26,
+                "phase_3": 0.8
+            },
+            {
+                "time_stamp": "20200412T133053.299+0700",
+                "energy_enjoy": 460.73,
+                "phase_1": 1.07,
+                "phase_2": 0.79,
+                "phase_3": 0.84
+            },
+            {
+                "time_stamp": "20200412T133547.625+0700",
+                "energy_enjoy": 455.32,
+                "phase_1": 1.07,
+                "phase_2": 0.79,
+                "phase_3": 0.87
+            },
+            {
+                "time_stamp": "20200412T134041.962+0700",
+                "energy_enjoy": 458.22,
+                "phase_1": 1.12,
+                "phase_2": 0.81,
+                "phase_3": 0.89
+            },
+            {
+                "time_stamp": "20200412T134536.294+0700",
+                "energy_enjoy": 473.32,
+                "phase_1": 1.09,
+                "phase_2": 0.79,
+                "phase_3": 0.91
+            },
+            {
+                "time_stamp": "20200412T135030.632+0700",
+                "energy_enjoy": 475.5,
+                "phase_1": 1.14,
+                "phase_2": 1.28,
+                "phase_3": 0.89
+            },
+            {
+                "time_stamp": "20200412T135524.964+0700",
+                "energy_enjoy": 480.85,
+                "phase_1": 1.12,
+                "phase_2": 0.81,
+                "phase_3": 0.89
+            },
+            {
+                "time_stamp": "20200412T140019.289+0700",
+                "energy_enjoy": 474.72,
+                "phase_1": 1.09,
+                "phase_2": 0.81,
+                "phase_3": 0.89
+            },
+            {
+                "time_stamp": "20200412T140513.619+0700",
+                "energy_enjoy": 474.54,
+                "phase_1": 1.14,
+                "phase_2": 0.79,
+                "phase_3": 0.87
+            },
+            {
+                "time_stamp": "20200412T141007.945+0700",
+                "energy_enjoy": 473.67,
+                "phase_1": 1.12,
+                "phase_2": 0.81,
+                "phase_3": 0.89
+            },
+            {
+                "time_stamp": "20200412T141502.271+0700",
+                "energy_enjoy": 457.51,
+                "phase_1": 1.07,
+                "phase_2": 1.3,
+                "phase_3": 0.89
+            },
+            {
+                "time_stamp": "20200412T141956.598+0700",
+                "energy_enjoy": 462.39,
+                "phase_1": 1.05,
+                "phase_2": 0.81,
+                "phase_3": 0.87
+            },
+            {
+                "time_stamp": "20200412T142450.925+0700",
+                "energy_enjoy": 455.89,
+                "phase_1": 1.05,
+                "phase_2": 0.81,
+                "phase_3": 0.87
+            },
+            {
+                "time_stamp": "20200412T142945.251+0700",
+                "energy_enjoy": 455.25,
+                "phase_1": 1.02,
+                "phase_2": 0.82,
+                "phase_3": 0.87
+            },
+            {
+                "time_stamp": "20200412T143439.578+0700",
+                "energy_enjoy": 455.61,
+                "phase_1": 1.02,
+                "phase_2": 0.84,
+                "phase_3": 0.87
+            },
+            {
+                "time_stamp": "20200412T143933.910+0700",
+                "energy_enjoy": 474.53,
+                "phase_1": 1.14,
+                "phase_2": 1.28,
+                "phase_3": 0.85
+            },
+            {
+                "time_stamp": "20200412T144428.240+0700",
+                "energy_enjoy": 520.08,
+                "phase_1": 1.26,
+                "phase_2": 0.82,
+                "phase_3": 0.94
+            },
+            {
+                "time_stamp": "20200412T144922.566+0700",
+                "energy_enjoy": 538.88,
+                "phase_1": 1.35,
+                "phase_2": 1.49,
+                "phase_3": 1.48
+            },
+            {
+                "time_stamp": "20200412T145416.894+0700",
+                "energy_enjoy": 598.38,
+                "phase_1": 1.77,
+                "phase_2": 1.59,
+                "phase_3": 1.65
+            },
+            {
+                "time_stamp": "20200412T145911.225+0700",
+                "energy_enjoy": 677.79,
+                "phase_1": 1.75,
+                "phase_2": 1.35,
+                "phase_3": 1.27
+            },
+            {
+                "time_stamp": "20200412T150405.554+0700",
+                "energy_enjoy": 634.41,
+                "phase_1": 1.56,
+                "phase_2": 0.91,
+                "phase_3": 1.03
+            },
+            {
+                "time_stamp": "20200412T150859.884+0700",
+                "energy_enjoy": 603.02,
+                "phase_1": 1.54,
+                "phase_2": 0.89,
+                "phase_3": 0.99
+            },
+            {
+                "time_stamp": "20200412T151354.212+0700",
+                "energy_enjoy": 599.43,
+                "phase_1": 1.52,
+                "phase_2": 0.89,
+                "phase_3": 0.99
+            },
+            {
+                "time_stamp": "20200412T151848.540+0700",
+                "energy_enjoy": 598.66,
+                "phase_1": 1.52,
+                "phase_2": 0.89,
+                "phase_3": 0.99
+            },
+            {
+                "time_stamp": "20200412T152342.868+0700",
+                "energy_enjoy": 485.37,
+                "phase_1": 1.07,
+                "phase_2": 1.26,
+                "phase_3": 0.87
+            },
+            {
+                "time_stamp": "20200412T152837.194+0700",
+                "energy_enjoy": 465.05,
+                "phase_1": 1.05,
+                "phase_2": 0.79,
+                "phase_3": 0.87
+            },
+            {
+                "time_stamp": "20200412T153331.520+0700",
+                "energy_enjoy": 465.24,
+                "phase_1": 1.1,
+                "phase_2": 0.82,
+                "phase_3": 0.87
+            },
+            {
+                "time_stamp": "20200412T153825.846+0700",
+                "energy_enjoy": 479.34,
+                "phase_1": 1.12,
+                "phase_2": 0.79,
+                "phase_3": 0.89
+            },
+            {
+                "time_stamp": "20200412T154320.173+0700",
+                "energy_enjoy": 481.58,
+                "phase_1": 1.14,
+                "phase_2": 0.82,
+                "phase_3": 1.11
+            },
+            {
+                "time_stamp": "20200412T154814.499+0700",
+                "energy_enjoy": 483.32,
+                "phase_1": 1.14,
+                "phase_2": 1.24,
+                "phase_3": 0.85
+            },
+            {
+                "time_stamp": "20200412T155308.827+0700",
+                "energy_enjoy": 489.26,
+                "phase_1": 1.12,
+                "phase_2": 0.79,
+                "phase_3": 0.87
+            },
+            {
+                "time_stamp": "20200412T155803.154+0700",
+                "energy_enjoy": 483.19,
+                "phase_1": 1.14,
+                "phase_2": 0.79,
+                "phase_3": 0.87
+            },
+            {
+                "time_stamp": "20200412T160257.489+0700",
+                "energy_enjoy": 471.2,
+                "phase_1": 1.05,
+                "phase_2": 0.77,
+                "phase_3": 0.85
+            },
+            {
+                "time_stamp": "20200412T160751.815+0700",
+                "energy_enjoy": 461.07,
+                "phase_1": 1.03,
+                "phase_2": 0.79,
+                "phase_3": 0.85
+            },
+            {
+                "time_stamp": "20200412T161246.147+0700",
+                "energy_enjoy": 466.52,
+                "phase_1": 1.1,
+                "phase_2": 1.28,
+                "phase_3": 0.85
+            },
+            {
+                "time_stamp": "20200412T161740.474+0700",
+                "energy_enjoy": 467.77,
+                "phase_1": 1.05,
+                "phase_2": 0.82,
+                "phase_3": 0.85
+            },
+            {
+                "time_stamp": "20200412T162234.805+0700",
+                "energy_enjoy": 461.61,
+                "phase_1": 1.08,
+                "phase_2": 0.84,
+                "phase_3": 0.9
+            },
+            {
+                "time_stamp": "20200412T162729.133+0700",
+                "energy_enjoy": 465.03,
+                "phase_1": 1.12,
+                "phase_2": 0.84,
+                "phase_3": 0.9
+            },
+            {
+                "time_stamp": "20200412T163223.462+0700",
+                "energy_enjoy": 482.47,
+                "phase_1": 1.17,
+                "phase_2": 0.82,
+                "phase_3": 0.92
+            },
+            {
+                "time_stamp": "20200412T163717.794+0700",
+                "energy_enjoy": 490.21,
+                "phase_1": 1.24,
+                "phase_2": 1.31,
+                "phase_3": 1.13
+            },
+            {
+                "time_stamp": "20200412T164212.125+0700",
+                "energy_enjoy": 492.49,
+                "phase_1": 1.15,
+                "phase_2": 1.31,
+                "phase_3": 0.87
+            },
+            {
+                "time_stamp": "20200412T164706.454+0700",
+                "energy_enjoy": 486.22,
+                "phase_1": 1.12,
+                "phase_2": 0.82,
+                "phase_3": 0.87
+            },
+            {
+                "time_stamp": "20200412T165200.781+0700",
+                "energy_enjoy": 484.79,
+                "phase_1": 1.12,
+                "phase_2": 0.84,
+                "phase_3": 0.87
+            },
+            {
+                "time_stamp": "20200412T165655.107+0700",
+                "energy_enjoy": 476.59,
+                "phase_1": 1.05,
+                "phase_2": 0.8,
+                "phase_3": 0.85
+            },
+            {
+                "time_stamp": "20200412T170149.434+0700",
+                "energy_enjoy": 467.53,
+                "phase_1": 1.08,
+                "phase_2": 1.29,
+                "phase_3": 1.09
+            },
+            {
+                "time_stamp": "20200412T170643.769+0700",
+                "energy_enjoy": 472.43,
+                "phase_1": 1.1,
+                "phase_2": 1.29,
+                "phase_3": 0.83
+            },
+            {
+                "time_stamp": "20200412T171138.093+0700",
+                "energy_enjoy": 465.64,
+                "phase_1": 1.06,
+                "phase_2": 0.82,
+                "phase_3": 0.85
+            },
+            {
+                "time_stamp": "20200412T171632.421+0700",
+                "energy_enjoy": 464.7,
+                "phase_1": 1.06,
+                "phase_2": 0.82,
+                "phase_3": 0.85
+            },
+            {
+                "time_stamp": "20200412T172126.747+0700",
+                "energy_enjoy": 522.44,
+                "phase_1": 1.31,
+                "phase_2": 0.84,
+                "phase_3": 0.92
+            },
+            {
+                "time_stamp": "20200412T172621.078+0700",
+                "energy_enjoy": 560.32,
+                "phase_1": 1.43,
+                "phase_2": 1.31,
+                "phase_3": 0.95
+            },
+            {
+                "time_stamp": "20200412T173115.405+0700",
+                "energy_enjoy": 568.95,
+                "phase_1": 1.41,
+                "phase_2": 1.36,
+                "phase_3": 1.18
+            },
+            {
+                "time_stamp": "20200412T173609.730+0700",
+                "energy_enjoy": 562.69,
+                "phase_1": 1.38,
+                "phase_2": 1.12,
+                "phase_3": 0.99
+            },
+            {
+                "time_stamp": "20200412T174104.059+0700",
+                "energy_enjoy": 564.3,
+                "phase_1": 1.43,
+                "phase_2": 1.15,
+                "phase_3": 0.97
+            },
+            {
+                "time_stamp": "20200412T174558.388+0700",
+                "energy_enjoy": 562.86,
+                "phase_1": 1.36,
+                "phase_2": 1.15,
+                "phase_3": 0.97
+            },
+            {
+                "time_stamp": "20200412T175052.716+0700",
+                "energy_enjoy": 559.16,
+                "phase_1": 1.33,
+                "phase_2": 1.31,
+                "phase_3": 0.94
+            },
+            {
+                "time_stamp": "20200412T175547.043+0700",
+                "energy_enjoy": 545.34,
+                "phase_1": 1.31,
+                "phase_2": 1.38,
+                "phase_3": 1.18
+            },
+            {
+                "time_stamp": "20200412T180041.375+0700",
+                "energy_enjoy": 537.21,
+                "phase_1": 1.29,
+                "phase_2": 0.84,
+                "phase_3": 0.97
+            },
+            {
+                "time_stamp": "20200412T180535.702+0700",
+                "energy_enjoy": 537.98,
+                "phase_1": 1.33,
+                "phase_2": 0.86,
+                "phase_3": 1.06
+            },
+            {
+                "time_stamp": "20200412T181030.027+0700",
+                "energy_enjoy": 537.63,
+                "phase_1": 1.33,
+                "phase_2": 0.89,
+                "phase_3": 1.08
+            },
+            {
+                "time_stamp": "20200412T181524.354+0700",
+                "energy_enjoy": 541.89,
+                "phase_1": 1.33,
+                "phase_2": 1.36,
+                "phase_3": 1.06
+            },
+            {
+                "time_stamp": "20200412T182018.685+0700",
+                "energy_enjoy": 561.36,
+                "phase_1": 1.41,
+                "phase_2": 0.84,
+                "phase_3": 1.06
+            },
+            {
+                "time_stamp": "20200412T182513.015+0700",
+                "energy_enjoy": 567.18,
+                "phase_1": 1.43,
+                "phase_2": 0.87,
+                "phase_3": 1.06
+            },
+            {
+                "time_stamp": "20200412T183007.344+0700",
+                "energy_enjoy": 569.85,
+                "phase_1": 1.43,
+                "phase_2": 0.87,
+                "phase_3": 1.06
+            },
+            {
+                "time_stamp": "20200412T183501.672+0700",
+                "energy_enjoy": 568.23,
+                "phase_1": 1.41,
+                "phase_2": 0.84,
+                "phase_3": 1.04
+            },
+            {
+                "time_stamp": "20200412T183956.004+0700",
+                "energy_enjoy": 574.7,
+                "phase_1": 1.45,
+                "phase_2": 1.31,
+                "phase_3": 1.02
+            },
+            {
+                "time_stamp": "20200412T184450.330+0700",
+                "energy_enjoy": 574.06,
+                "phase_1": 1.36,
+                "phase_2": 1.31,
+                "phase_3": 0.97
+            },
+            {
+                "time_stamp": "20200412T184944.658+0700",
+                "energy_enjoy": 548.67,
+                "phase_1": 1.34,
+                "phase_2": 0.85,
+                "phase_3": 1.02
+            },
+            {
+                "time_stamp": "20200412T185438.983+0700",
+                "energy_enjoy": 548.86,
+                "phase_1": 1.36,
+                "phase_2": 0.87,
+                "phase_3": 1.33
+            },
+            {
+                "time_stamp": "20200412T185933.311+0700",
+                "energy_enjoy": 547.95,
+                "phase_1": 1.34,
+                "phase_2": 0.89,
+                "phase_3": 1.25
+            },
+            {
+                "time_stamp": "20200412T190427.641+0700",
+                "energy_enjoy": 550.58,
+                "phase_1": 1.36,
+                "phase_2": 1.31,
+                "phase_3": 1.02
+            },
+            {
+                "time_stamp": "20200412T190921.965+0700",
+                "energy_enjoy": 555.3,
+                "phase_1": 1.39,
+                "phase_2": 1.36,
+                "phase_3": 1.02
+            },
+            {
+                "time_stamp": "20200412T191416.291+0700",
+                "energy_enjoy": 561.89,
+                "phase_1": 1.43,
+                "phase_2": 0.87,
+                "phase_3": 1.07
+            },
+            {
+                "time_stamp": "20200412T191910.620+0700",
+                "energy_enjoy": 571.14,
+                "phase_1": 1.41,
+                "phase_2": 0.87,
+                "phase_3": 1.04
+            },
+            {
+                "time_stamp": "20200412T192404.947+0700",
+                "energy_enjoy": 569.74,
+                "phase_1": 1.41,
+                "phase_2": 0.87,
+                "phase_3": 1.04
+            },
+            {
+                "time_stamp": "20200412T192859.278+0700",
+                "energy_enjoy": 571.48,
+                "phase_1": 1.43,
+                "phase_2": 1.29,
+                "phase_3": 1.02
+            },
+            {
+                "time_stamp": "20200412T193353.606+0700",
+                "energy_enjoy": 578.35,
+                "phase_1": 1.43,
+                "phase_2": 1.36,
+                "phase_3": 1.23
+            },
+            {
+                "time_stamp": "20200412T193847.937+0700",
+                "energy_enjoy": 572.49,
+                "phase_1": 1.34,
+                "phase_2": 0.85,
+                "phase_3": 1.02
+            },
+            {
+                "time_stamp": "20200412T194342.268+0700",
+                "energy_enjoy": 547.78,
+                "phase_1": 1.34,
+                "phase_2": 0.89,
+                "phase_3": 1.26
+            },
+            {
+                "time_stamp": "20200412T194836.599+0700",
+                "energy_enjoy": 549.2,
+                "phase_1": 1.36,
+                "phase_2": 0.87,
+                "phase_3": 1.26
+            },
+            {
+                "time_stamp": "20200412T195330.927+0700",
+                "energy_enjoy": 550.54,
+                "phase_1": 1.39,
+                "phase_2": 1.2,
+                "phase_3": 1.26
+            },
+            {
+                "time_stamp": "20200412T195825.253+0700",
+                "energy_enjoy": 557.18,
+                "phase_1": 1.39,
+                "phase_2": 1.36,
+                "phase_3": 1.23
+            },
+            {
+                "time_stamp": "20200412T200319.580+0700",
+                "energy_enjoy": 557.53,
+                "phase_1": 1.39,
+                "phase_2": 1.37,
+                "phase_3": 1.02
+            },
+            {
+                "time_stamp": "20200412T200813.908+0700",
+                "energy_enjoy": 557.19,
+                "phase_1": 1.39,
+                "phase_2": 0.9,
+                "phase_3": 1.07
+            },
+            {
+                "time_stamp": "20200412T201308.233+0700",
+                "energy_enjoy": 572.24,
+                "phase_1": 1.41,
+                "phase_2": 0.87,
+                "phase_3": 1.07
+            },
+            {
+                "time_stamp": "20200412T201802.560+0700",
+                "energy_enjoy": 570.77,
+                "phase_1": 1.41,
+                "phase_2": 0.89,
+                "phase_3": 1.07
+            },
+            {
+                "time_stamp": "20200412T202256.884+0700",
+                "energy_enjoy": 573.73,
+                "phase_1": 1.46,
+                "phase_2": 1.34,
+                "phase_3": 1.07
+            },
+            {
+                "time_stamp": "20200412T202751.221+0700",
+                "energy_enjoy": 577.69,
+                "phase_1": 1.43,
+                "phase_2": 0.87,
+                "phase_3": 1.09
+            },
+            {
+                "time_stamp": "20200412T203245.540+0700",
+                "energy_enjoy": 569.01,
+                "phase_1": 1.34,
+                "phase_2": 0.89,
+                "phase_3": 1.07
+            },
+            {
+                "time_stamp": "20200412T203739.865+0700",
+                "energy_enjoy": 548.39,
+                "phase_1": 1.34,
+                "phase_2": 0.85,
+                "phase_3": 1.04
+            },
+            {
+                "time_stamp": "20200412T204234.189+0700",
+                "energy_enjoy": 547.93,
+                "phase_1": 1.36,
+                "phase_2": 0.84,
+                "phase_3": 1.04
+            },
+            {
+                "time_stamp": "20200412T204728.513+0700",
+                "energy_enjoy": 552.46,
+                "phase_1": 1.36,
+                "phase_2": 1.34,
+                "phase_3": 1.02
+            },
+            {
+                "time_stamp": "20200412T205222.840+0700",
+                "energy_enjoy": 554.9,
+                "phase_1": 1.38,
+                "phase_2": 1.36,
+                "phase_3": 1.28
+            },
+            {
+                "time_stamp": "20200412T205717.170+0700",
+                "energy_enjoy": 547.64,
+                "phase_1": 1.34,
+                "phase_2": 0.84,
+                "phase_3": 1.06
+            },
+            {
+                "time_stamp": "20200412T210211.501+0700",
+                "energy_enjoy": 554.01,
+                "phase_1": 1.38,
+                "phase_2": 0.84,
+                "phase_3": 1.28
+            },
+            {
+                "time_stamp": "20200412T210705.830+0700",
+                "energy_enjoy": 570.2,
+                "phase_1": 1.43,
+                "phase_2": 0.87,
+                "phase_3": 1.3
+            },
+            {
+                "time_stamp": "20200412T211200.158+0700",
+                "energy_enjoy": 573.8,
+                "phase_1": 1.41,
+                "phase_2": 1.29,
+                "phase_3": 1.02
+            },
+            {
+                "time_stamp": "20200412T211654.490+0700",
+                "energy_enjoy": 577.63,
+                "phase_1": 1.43,
+                "phase_2": 1.31,
+                "phase_3": 1.02
+            },
+            {
+                "time_stamp": "20200412T212148.830+0700",
+                "energy_enjoy": 572.34,
+                "phase_1": 1.43,
+                "phase_2": 0.85,
+                "phase_3": 1.07
+            },
+            {
+                "time_stamp": "20200412T212643.158+0700",
+                "energy_enjoy": 569.64,
+                "phase_1": 1.34,
+                "phase_2": 0.85,
+                "phase_3": 1.04
+            },
+            {
+                "time_stamp": "20200412T213137.483+0700",
+                "energy_enjoy": 548.37,
+                "phase_1": 1.36,
+                "phase_2": 0.85,
+                "phase_3": 1.04
+            },
+            {
+                "time_stamp": "20200412T213631.810+0700",
+                "energy_enjoy": 552.78,
+                "phase_1": 1.36,
+                "phase_2": 1.31,
+                "phase_3": 1.23
+            },
+            {
+                "time_stamp": "20200412T214126.139+0700",
+                "energy_enjoy": 556.49,
+                "phase_1": 1.39,
+                "phase_2": 1.34,
+                "phase_3": 1.04
+            },
+            {
+                "time_stamp": "20200412T214620.471+0700",
+                "energy_enjoy": 551.93,
+                "phase_1": 1.34,
+                "phase_2": 0.85,
+                "phase_3": 1.04
+            },
+            {
+                "time_stamp": "20200412T215114.808+0700",
+                "energy_enjoy": 549.41,
+                "phase_1": 1.34,
+                "phase_2": 0.87,
+                "phase_3": 1.04
+            },
+            {
+                "time_stamp": "20200412T215609.143+0700",
+                "energy_enjoy": 555.1,
+                "phase_1": 1.44,
+                "phase_2": 0.87,
+                "phase_3": 1.07
+            },
+            {
+                "time_stamp": "20200412T220103.470+0700",
+                "energy_enjoy": 573.19,
+                "phase_1": 1.46,
+                "phase_2": 1.32,
+                "phase_3": 1.04
+            },
+            {
+                "time_stamp": "20200412T220557.797+0700",
+                "energy_enjoy": 580.77,
+                "phase_1": 1.46,
+                "phase_2": 2.02,
+                "phase_3": 1.16
+            },
+            {
+                "time_stamp": "20200412T221052.126+0700",
+                "energy_enjoy": 586.76,
+                "phase_1": 1.44,
+                "phase_2": 1.58,
+                "phase_3": 1.4
+            },
+            {
+                "time_stamp": "20200412T221546.458+0700",
+                "energy_enjoy": 580.78,
+                "phase_1": 1.46,
+                "phase_2": 1.55,
+                "phase_3": 1.19
+            },
+            {
+                "time_stamp": "20200412T222040.784+0700",
+                "energy_enjoy": 574.51,
+                "phase_1": 1.41,
+                "phase_2": 0.9,
+                "phase_3": 1.12
+            },
+            {
+                "time_stamp": "20200412T222535.110+0700",
+                "energy_enjoy": 551.31,
+                "phase_1": 1.37,
+                "phase_2": 0.87,
+                "phase_3": 1.09
+            },
+            {
+                "time_stamp": "20200412T223029.437+0700",
+                "energy_enjoy": 555.89,
+                "phase_1": 1.39,
+                "phase_2": 1.34,
+                "phase_3": 1.05
+            },
+            {
+                "time_stamp": "20200412T223523.764+0700",
+                "energy_enjoy": 560.21,
+                "phase_1": 1.39,
+                "phase_2": 1.15,
+                "phase_3": 1.09
+            },
+            {
+                "time_stamp": "20200412T224018.092+0700",
+                "energy_enjoy": 555.06,
+                "phase_1": 1.37,
+                "phase_2": 1.16,
+                "phase_3": 1.05
+            },
+            {
+                "time_stamp": "20200412T224512.430+0700",
+                "energy_enjoy": 555.35,
+                "phase_1": 1.37,
+                "phase_2": 1.16,
+                "phase_3": 1.05
+            },
+            {
+                "time_stamp": "20200412T225006.758+0700",
+                "energy_enjoy": 559.01,
+                "phase_1": 1.39,
+                "phase_2": 0.9,
+                "phase_3": 1.28
+            },
+            {
+                "time_stamp": "20200412T225501.088+0700",
+                "energy_enjoy": 576.93,
+                "phase_1": 1.46,
+                "phase_2": 1.37,
+                "phase_3": 1.02
+            },
+            {
+                "time_stamp": "20200412T225955.418+0700",
+                "energy_enjoy": 579.94,
+                "phase_1": 1.41,
+                "phase_2": 0.85,
+                "phase_3": 1.05
+            },
+            {
+                "time_stamp": "20200412T230449.744+0700",
+                "energy_enjoy": 572.55,
+                "phase_1": 1.41,
+                "phase_2": 0.87,
+                "phase_3": 1.05
+            },
+            {
+                "time_stamp": "20200412T230944.071+0700",
+                "energy_enjoy": 572.07,
+                "phase_1": 1.44,
+                "phase_2": 0.87,
+                "phase_3": 1.05
+            },
+            {
+                "time_stamp": "20200412T231438.396+0700",
+                "energy_enjoy": 572.77,
+                "phase_1": 1.44,
+                "phase_2": 0.87,
+                "phase_3": 1.07
+            },
+            {
+                "time_stamp": "20200412T231932.725+0700",
+                "energy_enjoy": 622.17,
+                "phase_1": 1.84,
+                "phase_2": 1.41,
+                "phase_3": 1.12
+            },
+            {
+                "time_stamp": "20200412T232427.050+0700",
+                "energy_enjoy": 701.0,
+                "phase_1": 1.86,
+                "phase_2": 1.42,
+                "phase_3": 1.14
+            },
+            {
+                "time_stamp": "20200412T232921.381+0700",
+                "energy_enjoy": 694.48,
+                "phase_1": 1.82,
+                "phase_2": 0.94,
+                "phase_3": 1.17
+            },
+            {
+                "time_stamp": "20200412T233415.712+0700",
+                "energy_enjoy": 692.35,
+                "phase_1": 1.84,
+                "phase_2": 0.94,
+                "phase_3": 1.17
+            },
+            {
+                "time_stamp": "20200412T233910.040+0700",
+                "energy_enjoy": 692.63,
+                "phase_1": 1.84,
+                "phase_2": 0.94,
+                "phase_3": 1.17
+            },
+            {
+                "time_stamp": "20200412T234404.370+0700",
+                "energy_enjoy": 592.99,
+                "phase_1": 1.42,
+                "phase_2": 1.32,
+                "phase_3": 1.26
+            },
+            {
+                "time_stamp": "20200412T234858.697+0700",
+                "energy_enjoy": 580.78,
+                "phase_1": 1.47,
+                "phase_2": 1.32,
+                "phase_3": 1.0
+            },
+            {
+                "time_stamp": "20200412T235353.024+0700",
+                "energy_enjoy": 579.94,
+                "phase_1": 1.44,
+                "phase_2": 0.85,
+                "phase_3": 1.02
+            },
+            {
+                "time_stamp": "20200412T235847.351+0700",
+                "energy_enjoy": 782.64,
+                "phase_1": 2.41,
+                "phase_2": 1.89,
+                "phase_3": 2.07
+            },
+            {
+                "time_stamp": "20200413T000341.678+0700",
+                "energy_enjoy": 880.66,
+                "phase_1": 2.45,
+                "phase_2": 1.96,
+                "phase_3": 2.24
+            },
+            {
+                "time_stamp": "20200413T000836.011+0700",
+                "energy_enjoy": 892.29,
+                "phase_1": 2.48,
+                "phase_2": 2.27,
+                "phase_3": 2.28
+            },
+            {
+                "time_stamp": "20200413T001330.346+0700",
+                "energy_enjoy": 880.71,
+                "phase_1": 2.43,
+                "phase_2": 2.43,
+                "phase_3": 2.55
+            },
+            {
+                "time_stamp": "20200413T001824.679+0700",
+                "energy_enjoy": 875.23,
+                "phase_1": 2.43,
+                "phase_2": 1.96,
+                "phase_3": 2.24
+            },
+            {
+                "time_stamp": "20200413T002319.016+0700",
+                "energy_enjoy": 874.04,
+                "phase_1": 2.43,
+                "phase_2": 1.98,
+                "phase_3": 2.31
+            },
+            {
+                "time_stamp": "20200413T002813.350+0700",
+                "energy_enjoy": 874.09,
+                "phase_1": 2.43,
+                "phase_2": 1.98,
+                "phase_3": 2.31
+            },
+            {
+                "time_stamp": "20200413T003307.677+0700",
+                "energy_enjoy": 598.63,
+                "phase_1": 1.44,
+                "phase_2": 1.35,
+                "phase_3": 1.07
+            },
+            {
+                "time_stamp": "20200413T003802.000+0700",
+                "energy_enjoy": 708.59,
+                "phase_1": 2.38,
+                "phase_2": 2.34,
+                "phase_3": 2.26
+            },
+            {
+                "time_stamp": "20200413T004256.326+0700",
+                "energy_enjoy": 882.39,
+                "phase_1": 2.48,
+                "phase_2": 1.96,
+                "phase_3": 2.22
+            },
+            {
+                "time_stamp": "20200413T004750.656+0700",
+                "energy_enjoy": 894.76,
+                "phase_1": 2.48,
+                "phase_2": 1.98,
+                "phase_3": 2.48
+            },
+            {
+                "time_stamp": "20200413T005244.990+0700",
+                "energy_enjoy": 723.0,
+                "phase_1": 1.47,
+                "phase_2": 0.9,
+                "phase_3": 1.33
+            },
+            {
+                "time_stamp": "20200413T005739.316+0700",
+                "energy_enjoy": 637.0,
+                "phase_1": 2.39,
+                "phase_2": 2.29,
+                "phase_3": 2.45
+            },
+            {
+                "time_stamp": "20200413T010233.648+0700",
+                "energy_enjoy": 883.43,
+                "phase_1": 2.48,
+                "phase_2": 2.41,
+                "phase_3": 2.31
+            },
+            {
+                "time_stamp": "20200413T010727.977+0700",
+                "energy_enjoy": 877.83,
+                "phase_1": 2.43,
+                "phase_2": 1.96,
+                "phase_3": 2.24
+            },
+            {
+                "time_stamp": "20200413T011222.303+0700",
+                "energy_enjoy": 731.03,
+                "phase_1": 1.42,
+                "phase_2": 0.85,
+                "phase_3": 1.1
+            },
+            {
+                "time_stamp": "20200413T011716.630+0700",
+                "energy_enjoy": 566.59,
+                "phase_1": 1.39,
+                "phase_2": 0.87,
+                "phase_3": 1.07
+            },
+            {
+                "time_stamp": "20200413T012210.963+0700",
+                "energy_enjoy": 800.6,
+                "phase_1": 2.41,
+                "phase_2": 2.39,
+                "phase_3": 2.5
+            },
+            {
+                "time_stamp": "20200413T012705.296+0700",
+                "energy_enjoy": 877.69,
+                "phase_1": 2.46,
+                "phase_2": 2.43,
+                "phase_3": 2.57
+            },
+            {
+                "time_stamp": "20200413T013159.650+0700",
+                "energy_enjoy": 812.8,
+                "phase_1": 1.42,
+                "phase_2": 0.85,
+                "phase_3": 1.07
+            },
+            {
+                "time_stamp": "20200413T013653.978+0700",
+                "energy_enjoy": 585.22,
+                "phase_1": 1.47,
+                "phase_2": 0.85,
+                "phase_3": 1.1
+            },
+            {
+                "time_stamp": "20200413T014148.306+0700",
+                "energy_enjoy": 768.64,
+                "phase_1": 2.41,
+                "phase_2": 1.91,
+                "phase_3": 2.17
+            },
+            {
+                "time_stamp": "20200413T014642.637+0700",
+                "energy_enjoy": 887.86,
+                "phase_1": 2.48,
+                "phase_2": 2.39,
+                "phase_3": 2.31
+            },
+            {
+                "time_stamp": "20200413T015136.969+0700",
+                "energy_enjoy": 809.14,
+                "phase_1": 1.49,
+                "phase_2": 1.35,
+                "phase_3": 1.07
+            },
+            {
+                "time_stamp": "20200413T015631.300+0700",
+                "energy_enjoy": 591.8,
+                "phase_1": 1.47,
+                "phase_2": 0.88,
+                "phase_3": 1.1
+            },
+            {
+                "time_stamp": "20200413T020125.627+0700",
+                "energy_enjoy": 724.18,
+                "phase_1": 2.37,
+                "phase_2": 1.92,
+                "phase_3": 2.26
+            },
+            {
+                "time_stamp": "20200413T020619.955+0700",
+                "energy_enjoy": 864.49,
+                "phase_1": 2.41,
+                "phase_2": 1.99,
+                "phase_3": 2.29
+            },
+            {
+                "time_stamp": "20200413T021114.291+0700",
+                "energy_enjoy": 793.32,
+                "phase_1": 1.42,
+                "phase_2": 1.33,
+                "phase_3": 1.1
+            },
+            {
+                "time_stamp": "20200413T021608.621+0700",
+                "energy_enjoy": 574.87,
+                "phase_1": 1.42,
+                "phase_2": 1.35,
+                "phase_3": 1.1
+            },
+            {
+                "time_stamp": "20200413T022102.951+0700",
+                "energy_enjoy": 713.7,
+                "phase_1": 2.39,
+                "phase_2": 1.92,
+                "phase_3": 2.27
+            },
+            {
+                "time_stamp": "20200413T022557.276+0700",
+                "energy_enjoy": 865.24,
+                "phase_1": 2.46,
+                "phase_2": 1.99,
+                "phase_3": 2.32
+            },
+            {
+                "time_stamp": "20200413T023051.605+0700",
+                "energy_enjoy": 822.1,
+                "phase_1": 1.49,
+                "phase_2": 0.85,
+                "phase_3": 1.17
+            },
+            {
+                "time_stamp": "20200413T023545.936+0700",
+                "energy_enjoy": 591.95,
+                "phase_1": 1.49,
+                "phase_2": 0.88,
+                "phase_3": 1.39
+            },
+            {
+                "time_stamp": "20200413T024040.264+0700",
+                "energy_enjoy": 691.16,
+                "phase_1": 2.42,
+                "phase_2": 2.3,
+                "phase_3": 2.22
+            },
+            {
+                "time_stamp": "20200413T024534.588+0700",
+                "energy_enjoy": 887.19,
+                "phase_1": 2.49,
+                "phase_2": 2.39,
+                "phase_3": 2.53
+            },
+            {
+                "time_stamp": "20200413T025028.916+0700",
+                "energy_enjoy": 799.28,
+                "phase_1": 1.5,
+                "phase_2": 0.85,
+                "phase_3": 1.15
+            },
+            {
+                "time_stamp": "20200413T025523.246+0700",
+                "energy_enjoy": 578.24,
+                "phase_1": 1.42,
+                "phase_2": 0.83,
+                "phase_3": 1.12
+            },
+            {
+                "time_stamp": "20200413T030017.574+0700",
+                "energy_enjoy": 729.26,
+                "phase_1": 2.37,
+                "phase_2": 1.87,
+                "phase_3": 2.13
+            },
+            {
+                "time_stamp": "20200413T030511.905+0700",
+                "energy_enjoy": 871.5,
+                "phase_1": 2.44,
+                "phase_2": 2.37,
+                "phase_3": 2.25
+            },
+            {
+                "time_stamp": "20200413T031006.232+0700",
+                "energy_enjoy": 709.59,
+                "phase_1": 1.47,
+                "phase_2": 1.35,
+                "phase_3": 1.36
+            },
+            {
+                "time_stamp": "20200413T031500.558+0700",
+                "energy_enjoy": 577.35,
+                "phase_1": 1.4,
+                "phase_2": 1.33,
+                "phase_3": 1.08
+            },
+            {
+                "time_stamp": "20200413T031954.884+0700",
+                "energy_enjoy": 746.28,
+                "phase_1": 2.37,
+                "phase_2": 1.92,
+                "phase_3": 2.2
+            },
+            {
+                "time_stamp": "20200413T032449.209+0700",
+                "energy_enjoy": 882.43,
+                "phase_1": 2.47,
+                "phase_2": 1.99,
+                "phase_3": 2.22
+            },
+            {
+                "time_stamp": "20200413T032943.541+0700",
+                "energy_enjoy": 701.7,
+                "phase_1": 1.5,
+                "phase_2": 1.16,
+                "phase_3": 1.1
+            },
+            {
+                "time_stamp": "20200413T033437.864+0700",
+                "energy_enjoy": 598.47,
+                "phase_1": 1.52,
+                "phase_2": 1.59,
+                "phase_3": 1.13
+            },
+            {
+                "time_stamp": "20200413T033932.187+0700",
+                "energy_enjoy": 802.25,
+                "phase_1": 2.49,
+                "phase_2": 2.68,
+                "phase_3": 2.73
+            },
+            {
+                "time_stamp": "20200413T034426.517+0700",
+                "energy_enjoy": 897.65,
+                "phase_1": 2.54,
+                "phase_2": 2.45,
+                "phase_3": 2.2
+            },
+            {
+                "time_stamp": "20200413T034920.851+0700",
+                "energy_enjoy": 591.08,
+                "phase_1": 1.4,
+                "phase_2": 0.88,
+                "phase_3": 1.08
+            },
+            {
+                "time_stamp": "20200413T035415.181+0700",
+                "energy_enjoy": 606.2,
+                "phase_1": 2.31,
+                "phase_2": 1.88,
+                "phase_3": 2.16
+            },
+            {
+                "time_stamp": "20200413T035909.510+0700",
+                "energy_enjoy": 862.13,
+                "phase_1": 2.4,
+                "phase_2": 1.97,
+                "phase_3": 2.3
+            },
+            {
+                "time_stamp": "20200413T040403.853+0700",
+                "energy_enjoy": 743.72,
+                "phase_1": 1.43,
+                "phase_2": 1.31,
+                "phase_3": 1.1
+            },
+            {
+                "time_stamp": "20200413T040858.182+0700",
+                "energy_enjoy": 577.45,
+                "phase_1": 1.43,
+                "phase_2": 1.35,
+                "phase_3": 1.1
+            },
+            {
+                "time_stamp": "20200413T041352.513+0700",
+                "energy_enjoy": 742.7,
+                "phase_1": 2.35,
+                "phase_2": 2.35,
+                "phase_3": 2.34
+            },
+            {
+                "time_stamp": "20200413T041846.842+0700",
+                "energy_enjoy": 877.94,
+                "phase_1": 2.47,
+                "phase_2": 1.97,
+                "phase_3": 2.3
+            },
+            {
+                "time_stamp": "20200413T042341.169+0700",
+                "energy_enjoy": 620.89,
+                "phase_1": 1.47,
+                "phase_2": 0.9,
+                "phase_3": 1.1
+            },
+            {
+                "time_stamp": "20200413T042835.496+0700",
+                "energy_enjoy": 590.08,
+                "phase_1": 1.52,
+                "phase_2": 0.88,
+                "phase_3": 1.29
+            },
+            {
+                "time_stamp": "20200413T043329.826+0700",
+                "energy_enjoy": 866.11,
+                "phase_1": 2.46,
+                "phase_2": 2.37,
+                "phase_3": 2.27
+            },
+            {
+                "time_stamp": "20200413T043824.161+0700",
+                "energy_enjoy": 806.62,
+                "phase_1": 1.52,
+                "phase_2": 1.33,
+                "phase_3": 1.08
+            },
+            {
+                "time_stamp": "20200413T044318.487+0700",
+                "energy_enjoy": 586.38,
+                "phase_1": 1.45,
+                "phase_2": 1.38,
+                "phase_3": 1.08
+            },
+            {
+                "time_stamp": "20200413T044812.814+0700",
+                "energy_enjoy": 676.91,
+                "phase_1": 2.35,
+                "phase_2": 2.32,
+                "phase_3": 2.25
+            },
+            {
+                "time_stamp": "20200413T045307.142+0700",
+                "energy_enjoy": 865.51,
+                "phase_1": 2.42,
+                "phase_2": 2.39,
+                "phase_3": 2.29
+            },
+            {
+                "time_stamp": "20200413T045801.473+0700",
+                "energy_enjoy": 666.25,
+                "phase_1": 1.42,
+                "phase_2": 1.3,
+                "phase_3": 1.08
+            },
+            {
+                "time_stamp": "20200413T050255.803+0700",
+                "energy_enjoy": 574.58,
+                "phase_1": 1.49,
+                "phase_2": 1.3,
+                "phase_3": 1.07
+            },
+            {
+                "time_stamp": "20200413T050750.132+0700",
+                "energy_enjoy": 693.99,
+                "phase_1": 2.34,
+                "phase_2": 2.27,
+                "phase_3": 2.22
+            },
+            {
+                "time_stamp": "20200413T051244.457+0700",
+                "energy_enjoy": 871.02,
+                "phase_1": 2.48,
+                "phase_2": 2.34,
+                "phase_3": 2.19
+            },
+            {
+                "time_stamp": "20200413T051738.782+0700",
+                "energy_enjoy": 677.24,
+                "phase_1": 1.49,
+                "phase_2": 1.25,
+                "phase_3": 1.05
+            },
+            {
+                "time_stamp": "20200413T052233.107+0700",
+                "energy_enjoy": 599.01,
+                "phase_1": 1.51,
+                "phase_2": 1.92,
+                "phase_3": 1.12
+            },
+            {
+                "time_stamp": "20200413T052727.434+0700",
+                "energy_enjoy": 766.38,
+                "phase_1": 2.41,
+                "phase_2": 2.88,
+                "phase_3": 2.31
+            },
+            {
+                "time_stamp": "20200413T053221.764+0700",
+                "energy_enjoy": 826.42,
+                "phase_1": 1.51,
+                "phase_2": 1.92,
+                "phase_3": 1.1
+            },
+            {
+                "time_stamp": "20200413T053716.094+0700",
+                "energy_enjoy": 586.73,
+                "phase_1": 1.42,
+                "phase_2": 1.3,
+                "phase_3": 1.57
+            },
+            {
+                "time_stamp": "20200413T054210.428+0700",
+                "energy_enjoy": 612.85,
+                "phase_1": 2.29,
+                "phase_2": 2.2,
+                "phase_3": 2.33
+            },
+            {
+                "time_stamp": "20200413T054704.762+0700",
+                "energy_enjoy": 854.21,
+                "phase_1": 2.38,
+                "phase_2": 2.31,
+                "phase_3": 2.4
+            },
+            {
+                "time_stamp": "20200413T055159.085+0700",
+                "energy_enjoy": 738.64,
+                "phase_1": 1.42,
+                "phase_2": 1.25,
+                "phase_3": 1.0
+            },
+            {
+                "time_stamp": "20200413T055653.417+0700",
+                "energy_enjoy": 570.49,
+                "phase_1": 1.42,
+                "phase_2": 1.27,
+                "phase_3": 1.0
+            },
+            {
+                "time_stamp": "20200413T060147.736+0700",
+                "energy_enjoy": 603.17,
+                "phase_1": 2.26,
+                "phase_2": 2.21,
+                "phase_3": 2.18
+            },
+            {
+                "time_stamp": "20200413T060642.062+0700",
+                "energy_enjoy": 853.07,
+                "phase_1": 2.4,
+                "phase_2": 2.33,
+                "phase_3": 2.27
+            },
+            {
+                "time_stamp": "20200413T061136.390+0700",
+                "energy_enjoy": 673.8,
+                "phase_1": 1.43,
+                "phase_2": 1.29,
+                "phase_3": 1.02
+            },
+            {
+                "time_stamp": "20200413T061630.721+0700",
+                "energy_enjoy": 531.19,
+                "phase_1": 1.15,
+                "phase_2": 1.24,
+                "phase_3": 0.92
+            },
+            {
+                "time_stamp": "20200413T062125.059+0700",
+                "energy_enjoy": 495.13,
+                "phase_1": 1.15,
+                "phase_2": 1.27,
+                "phase_3": 0.92
+            },
+            {
+                "time_stamp": "20200413T062619.392+0700",
+                "energy_enjoy": 493.05,
+                "phase_1": 1.15,
+                "phase_2": 1.26,
+                "phase_3": 0.97
+            },
+            {
+                "time_stamp": "20200413T063113.727+0700",
+                "energy_enjoy": 483.55,
+                "phase_1": 1.08,
+                "phase_2": 1.24,
+                "phase_3": 0.92
+            },
+            {
+                "time_stamp": "20200413T063608.058+0700",
+                "energy_enjoy": 470.2,
+                "phase_1": 1.1,
+                "phase_2": 1.26,
+                "phase_3": 1.25
+            },
+            {
+                "time_stamp": "20200413T064102.384+0700",
+                "energy_enjoy": 469.3,
+                "phase_1": 1.1,
+                "phase_2": 1.26,
+                "phase_3": 1.13
+            },
+            {
+                "time_stamp": "20200413T064556.708+0700",
+                "energy_enjoy": 468.48,
+                "phase_1": 1.1,
+                "phase_2": 1.26,
+                "phase_3": 1.15
+            },
+            {
+                "time_stamp": "20200413T065051.037+0700",
+                "energy_enjoy": 467.42,
+                "phase_1": 1.07,
+                "phase_2": 1.23,
+                "phase_3": 0.96
+            },
+            {
+                "time_stamp": "20200413T065545.371+0700",
+                "energy_enjoy": 465.67,
+                "phase_1": 1.07,
+                "phase_2": 1.23,
+                "phase_3": 0.94
+            },
+            {
+                "time_stamp": "20200413T070039.699+0700",
+                "energy_enjoy": 502.04,
+                "phase_1": 1.37,
+                "phase_2": 1.25,
+                "phase_3": 1.0
+            },
+            {
+                "time_stamp": "20200413T070534.027+0700",
+                "energy_enjoy": 554.17,
+                "phase_1": 1.41,
+                "phase_2": 1.27,
+                "phase_3": 1.23
+            },
+            {
+                "time_stamp": "20200413T071028.353+0700",
+                "energy_enjoy": 568.92,
+                "phase_1": 1.43,
+                "phase_2": 1.31,
+                "phase_3": 1.18
+            },
+            {
+                "time_stamp": "20200413T071522.683+0700",
+                "energy_enjoy": 578.73,
+                "phase_1": 1.57,
+                "phase_2": 1.31,
+                "phase_3": 1.08
+            },
+            {
+                "time_stamp": "20200413T072017.013+0700",
+                "energy_enjoy": 815.27,
+                "phase_1": 3.66,
+                "phase_2": 4.19,
+                "phase_3": 2.75
+            },
+            {
+                "time_stamp": "20200413T072511.343+0700",
+                "energy_enjoy": 1376.0,
+                "phase_1": 5.82,
+                "phase_2": 6.42,
+                "phase_3": 5.19
+            },
+            {
+                "time_stamp": "20200413T073005.671+0700",
+                "energy_enjoy": 1902.83,
+                "phase_1": 3.82,
+                "phase_2": 4.64,
+                "phase_3": 3.32
+            },
+            {
+                "time_stamp": "20200413T073459.998+0700",
+                "energy_enjoy": 1153.47,
+                "phase_1": 3.25,
+                "phase_2": 4.66,
+                "phase_3": 3.27
+            },
+            {
+                "time_stamp": "20200413T073954.321+0700",
+                "energy_enjoy": 1466.14,
+                "phase_1": 5.02,
+                "phase_2": 5.44,
+                "phase_3": 3.99
+            },
+            {
+                "time_stamp": "20200413T074448.646+0700",
+                "energy_enjoy": 1660.82,
+                "phase_1": 5.09,
+                "phase_2": 5.44,
+                "phase_3": 3.8
+            },
+            {
+                "time_stamp": "20200413T074942.975+0700",
+                "energy_enjoy": 2023.0,
+                "phase_1": 6.93,
+                "phase_2": 6.68,
+                "phase_3": 5.27
+            },
+            {
+                "time_stamp": "20200413T075437.304+0700",
+                "energy_enjoy": 2267.22,
+                "phase_1": 7.18,
+                "phase_2": 7.48,
+                "phase_3": 5.75
+            },
+            {
+                "time_stamp": "20200413T075931.631+0700",
+                "energy_enjoy": 2324.16,
+                "phase_1": 7.19,
+                "phase_2": 7.7,
+                "phase_3": 6.0
+            },
+            {
+                "time_stamp": "20200413T080425.953+0700",
+                "energy_enjoy": 2134.59,
+                "phase_1": 6.02,
+                "phase_2": 5.93,
+                "phase_3": 4.75
+            },
+            {
+                "time_stamp": "20200413T080920.279+0700",
+                "energy_enjoy": 2455.85,
+                "phase_1": 8.15,
+                "phase_2": 7.08,
+                "phase_3": 6.04
+            },
+            {
+                "time_stamp": "20200413T081414.605+0700",
+                "energy_enjoy": 2447.94,
+                "phase_1": 7.62,
+                "phase_2": 7.12,
+                "phase_3": 6.06
+            },
+            {
+                "time_stamp": "20200413T081908.933+0700",
+                "energy_enjoy": 2372.31,
+                "phase_1": 6.28,
+                "phase_2": 6.43,
+                "phase_3": 4.93
+            },
+            {
+                "time_stamp": "20200413T082403.262+0700",
+                "energy_enjoy": 2155.28,
+                "phase_1": 7.31,
+                "phase_2": 7.78,
+                "phase_3": 6.18
+            },
+            {
+                "time_stamp": "20200413T082857.590+0700",
+                "energy_enjoy": 2360.83,
+                "phase_1": 7.36,
+                "phase_2": 7.36,
+                "phase_3": 6.87
+            },
+            {
+                "time_stamp": "20200413T083351.919+0700",
+                "energy_enjoy": 2358.26,
+                "phase_1": 7.42,
+                "phase_2": 7.33,
+                "phase_3": 6.15
+            },
+            {
+                "time_stamp": "20200413T083846.252+0700",
+                "energy_enjoy": 2365.55,
+                "phase_1": 9.34,
+                "phase_2": 9.39,
+                "phase_3": 8.92
+            },
+            {
+                "time_stamp": "20200413T084340.581+0700",
+                "energy_enjoy": 2890.57,
+                "phase_1": 8.55,
+                "phase_2": 7.76,
+                "phase_3": 6.89
+            },
+            {
+                "time_stamp": "20200413T084834.907+0700",
+                "energy_enjoy": 2521.89,
+                "phase_1": 8.45,
+                "phase_2": 7.17,
+                "phase_3": 6.34
+            }
+        ]
+    }
+]

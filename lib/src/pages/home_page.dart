@@ -75,7 +75,7 @@ _onDragStart(BuildContext context, DragStartDetails start) {
 
   print(newDate());
 
-  print("start : " + start.globalPosition.toString());
+  print("start :  " + start.globalPosition.toString());
   RenderBox getBox = context.findRenderObject();
   var local = getBox.globalToLocal(start.globalPosition);
   // print(local.dx.toString() + "|" + local.dy.toString());

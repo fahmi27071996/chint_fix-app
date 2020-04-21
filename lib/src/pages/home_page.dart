@@ -2,6 +2,7 @@ import 'dart:convert';
 import 'dart:ffi';
 import 'dart:io';
 import 'dart:math';
+import 'dart:ui';
 
 import 'package:chint_fix/src/providers/db_provider.dart';
 import 'package:chint_fix/src/providers/employee_api_provider.dart';
@@ -11,6 +12,7 @@ import 'package:flutter_echarts/flutter_echarts.dart';
 import 'package:chint_fix/src/pages/getDate.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'package:intl/intl.dart';
+import 'package:zoom_widget/zoom_widget.dart';
 
 String DataStop = "20200414T160000";
 String DataStop1 = ""; //20200414T160000
@@ -39,6 +41,16 @@ int data_lebar = 200;
 var red = "#db0202";
 var data2 = new List();
 var panjang = 31;
+
+// ==================== scALE========================//
+
+var StartScale, EndScale, ChangeScale;
+var StatusStartScale = false;
+
+// ==================== scALE========================//
+
+int AddManual = 0;
+int AddManualLeft = 0;
 
 class HomePage extends StatefulWidget {
   const HomePage({Key key}) : super(key: key);
@@ -119,7 +131,7 @@ class _HomePageState extends State<HomePage> {
               child: Text(
                 "Update Data",
                 textScaleFactor: 1.0,
-                style: TextStyle(fontSize: 18.0, color: Colors.white),
+                style: TextStyle(fontSize: 10.0, color: Colors.white),
               ),
               shape: RoundedRectangleBorder(
                   borderRadius: new BorderRadius.circular(10.0),
@@ -132,27 +144,78 @@ class _HomePageState extends State<HomePage> {
 
           Padding(padding: EdgeInsets.all(6)),
 
-          Center(
-            //padding: EdgeInsets.all( 15.0),
-            child: FlatButton(
-              child: Text(
-                "Delete DB Data",
-                textScaleFactor: 1.0,
-                style: TextStyle(fontSize: 18.0, color: Colors.white),
-              ),
-              shape: RoundedRectangleBorder(
-                  borderRadius: new BorderRadius.circular(10.0),
-                  side: BorderSide(color: Colors.white)),
-              onPressed: () {
-                DataStop = "20200414T160000";
-              }
-              // async {
-              //   await //getCustomers(); //_deleteData();
-              // }
+          // Center(
+          //   //padding: EdgeInsets.all( 15.0),
+          //   child: FlatButton(
+          //     child: Text(
+          //       "Delete DB Data",
+          //       textScaleFactor: 1.0,
+          //       style: TextStyle(fontSize: 10.0, color: Colors.white),
+          //     ),
+          //     shape: RoundedRectangleBorder(
+          //         borderRadius: new BorderRadius.circular(10.0),
+          //         side: BorderSide(color: Colors.white)),
+          //     onPressed: () //{
+          //         //  DataStop = "20200414T160000";
+          //         // }
+          //         async {
+          //       await getCustomers1(); //_deleteData();
+          //     },
+          //   ),
+          // ),
 
-              ,
-            ),
-          ),
+          Center(
+              child: new IconButton(
+            icon: new Icon(Icons.add_box),
+            
+            onPressed: () {
+              setState(() {
+                // AddManual=0;
+                AddManualLeft++;
+
+                changeQuery1("data1", "data2");
+              });
+            },
+          )),
+
+          Center(
+              child: new IconButton(
+            icon: new Icon(Icons.indeterminate_check_box),
+            onPressed: () {
+              setState(() {
+                //  AddManual=0;
+                AddManualLeft--;
+                changeQuery1("data1", "data2");
+              });
+            },
+          )),
+
+          Center(
+              child: new IconButton(
+            icon: new Icon(Icons.indeterminate_check_box),
+            onPressed: () {
+              setState(() {
+                // AddManualLeft = 0;
+                AddManual--;
+                changeQuery1("data1", "data2");
+                // AddManual = 0;
+              });
+            },
+          )),
+
+          Center(
+              child: new IconButton(
+            icon: new Icon(Icons.add_box),
+            onPressed: () {
+              setState(() {
+                //AddManualLeft = 0;
+                AddManual++;
+                changeQuery1("data1", "data2");
+                // AddManual = 0;
+              });
+            },
+          )),
+
           // Container(
           //   padding: EdgeInsets.only(right: 10.0),
           //   child: IconButton(
@@ -219,6 +282,8 @@ class _HomePageState extends State<HomePage> {
                     style: TextStyle(color: Colors.red, fontSize: 18.0),
                   ),
                 ),
+
+               
                 Center(
                     child: GestureDetector(
                   onHorizontalDragStart: (details) {
@@ -267,29 +332,66 @@ class _HomePageState extends State<HomePage> {
                     changeQuery1("data1", "data2");
                   },
 
-                  onPanUpdate: (details) {
-                    print("pan kemana : " + details.toString());
-                  },
-                  onPanEnd: (details) {
-                    //  print("mandek kemana : " + details.toString());
-                  },
+                  // onPanUpdate: (details) {
+                  //   print("pan kemana : " + details.toString());
+                  // },
+                  // onPanEnd: (details) {
+                  //   //  print("mandek kemana : " + details.toString());
+                  // },
 
                   onHorizontalDragEnd: (details) {
                     DataStop = DataStop1;
-                    // if (ValueStart < ValueData) {
-                    //   print("ke kiri");
-                    //   if (a > 0) {
-                    //     a--;
-                    //   } else {
-                    //     ShowToast();
-                    //   }
-                    // } else {
-                    //   print("ke kanan");
-                    //   a++;
+
+                    setState(() {
+                      AddManual = 0;
+                    });
+                  },
+
+                  //normal code
+
+                  onScaleStart: (ScaleStartDetails details) {
+                    print("startScale : " + details.toString());
+                    // StartScale = details;
+                  },
+
+                  
+
+                  onScaleUpdate: (ScaleUpdateDetails scaleDetails) {
+
+                    
+                    if (!StatusStartScale) {
+                      StartScale = scaleDetails.scale;
+                      StatusStartScale = true;
+                    }
+
+                    var ValueScale = scaleDetails.scale;
+                    // var ChangeScaleValue;
+
+                    // if (ValueScale < 1) {
+                    //   ChangeScaleValue  = (1- ValueScale)*20;
+                    //  // print("zoom out");
+                    // } else if (ValueScale > 1) {
+                    //   ChangeScaleValue  = ValueScale-ValueStart;
+                    //  // print("zoom in");
                     // }
 
-                    // changeQuery1("data1", "data2");
+                    // ChangeScaleValue  = ValueScale-ValueStart;
+                    print("New Scale" + ValueScale.toString());
+
+                    // print( "scale :" + scaleDetails.focalPoint.toString() + "  " + details.localFocalPoint.toString());
+                    //  double get distance => math.sqrt(dx * dx + dy * dy);
+                    // print("details : " +
+                    //     (scaleDetails.scale.toString()));
                   },
+
+                  onScaleEnd: (ScaleEndDetails scaleDetails) {
+                    // print( "scale :" + scaleDetails.focalPoint.toString() + "  " + details.localFocalPoint.toString());
+                    //  double get distance => math.sqrt(dx * dx + dy * dy);
+                    print("End Scale : " + scaleDetails.toString());
+                    StartScale = 0;
+                    StatusStartScale = false;
+                  },
+
                   //(DragStartDetails start) =>
                   //     _onDragStart(context, start),
                   // onHorizontalDragUpdate: (DragUpdateDetails update) =>
@@ -312,7 +414,8 @@ class _HomePageState extends State<HomePage> {
                       color: Colors.grey,
                     ),
                   ),
-                )),
+                )
+                ),
               ],
             ),
 
@@ -371,13 +474,17 @@ class _HomePageState extends State<HomePage> {
 
     // untuk jam //
 
-    var fiftyDaysFromNow = tempDate.add(new Duration(hours: -a));
+    var fiftyDaysFromNow =
+        tempDate.add(new Duration(hours: -a - AddManualLeft));
     var format =
         DateFormat('yyyyMMddTkkmmss').format(fiftyDaysFromNow).toString();
 
     //DateTime tempDate1 = DateTime.parse(fiftyDaysFromNow);
 
-    var fiftyDaysFromNow1 = fiftyDaysFromNow.add(new Duration(hours: 35));
+    var plus;
+
+    var fiftyDaysFromNow1 = fiftyDaysFromNow
+        .add(new Duration(hours: (35 + AddManual + AddManualLeft)));
     var format1 =
         DateFormat('yyyyMMddTkkmmss').format(fiftyDaysFromNow1).toString();
 
@@ -414,33 +521,25 @@ class _HomePageState extends State<HomePage> {
 
     DateTime data_limit = DateTime.parse("20200414T160000");
 
-   // try {
-      if (tempDateStart.isAfter(data_limit)) {
-        DataStop1 = data1.toString();
-        print("yes");
-        
-      }
+    // try {
+    if (tempDateStart.isAfter(data_limit)) {
+      DataStop1 = data1.toString();
+      print("yes");
+    } else if (tempDateStart.isBefore(data_limit)) {
+      data1 = "20200414T160000";
+      data2 = "20200416T040000";
+    }
 
-      else{
-        data1 = "20200414T160000";
-        data2 = "20200416T040000";
-      }
+    // else {
+    //   DataStop1 = "20200414T160000";
+    //   data1 = "20200414T160000";
+    // }
 
-      
-
-
-
-      // else {
-      //   DataStop1 = "20200414T160000";
-      //   data1 = "20200414T160000";
-      // }
-
-      setState(() {
-
-          dataQuery =
-              'SELECT * FROM EMPLOYEE WHERE time_stamp BETWEEN "$data1" AND "$data2"';
-        });
-   // } catch (e) {}
+    setState(() {
+      dataQuery =
+          'SELECT * FROM EMPLOYEE WHERE time_stamp BETWEEN "$data1" AND "$data2"';
+    });
+    // } catch (e) {}
 
     // else
     // {
@@ -479,7 +578,18 @@ class _HomePageState extends State<HomePage> {
         'SELECT * FROM EMPLOYEE WHERE time_stamp BETWEEN "20200414T155754" AND "20200416T171455"');
     //'SELECT * FROM EMPLOYEE ORDER BY time_stamp');
 
-    print(result.toList()[0].toString());
+    //print(result.toList()[0].toString());
+    return result.toList();
+  }
+
+  Future<List> getCustomers1() async {
+    var result = await DBProvider.db.getAllEmployees(
+        'SELECT * FROM EMPLOYEE WHERE time_stamp LIKE "20200414T160000+0700"');
+
+    // var res =await  db.query("Client", where: "id = ?", whereArgs: [id]);
+    //'SELECT * FROM EMPLOYEE ORDER BY time_stamp');
+
+    print(result);
     return result.toList();
   }
 
@@ -644,7 +754,7 @@ class _HomePageState extends State<HomePage> {
                 xAxis: {
                         type: 'category',
 
-                        max:36,
+                       
                        
                         show: false,                         
                         },

@@ -54,6 +54,7 @@ int AddManual = 0;
 int AddManualLeft = 0;
 
 var tahan = false;
+var WaitSeconds = 1;
 
 class HomePage extends StatefulWidget {
   const HomePage({Key key}) : super(key: key);
@@ -112,20 +113,16 @@ class _HomePageState extends State<HomePage> {
     counter++;
   }
 
-
-  void baca(){
-    Future.delayed(const Duration(seconds: 2), () {
-    AddManual++;
-    changeQuery1("data1", "data2");});
+  void baca() {
+    Future.delayed(Duration(seconds: WaitSeconds), () {
+     // AddManual++;
+    //  changeQuery1("data1", "data2");
+    });
   }
 
   void tunda() async {
     const oneSec = const Duration(seconds: 5);
     new Timer.periodic(oneSec, (Timer t) {
-
-      
-      
-
       if (!tahan) {
         tahan = false;
         AddManual = AddManual + 1;
@@ -133,7 +130,7 @@ class _HomePageState extends State<HomePage> {
       }
 
       setState(() {
-        changeQuery1("data1", "data2");        
+        changeQuery1("data1", "data2");
         //tahan = true;
       });
     });
@@ -221,10 +218,12 @@ class _HomePageState extends State<HomePage> {
             icon: new Icon(Icons.add_box),
             onPressed: () {
               setState(() {
-                // AddManual=0;
-                AddManualLeft++;
 
-                changeQuery1("data1", "data2");
+               // WaitSeconds++;
+              
+                // AddManualLeft++;
+
+                // changeQuery1("data1", "data2");
               });
             },
           )),
@@ -357,7 +356,7 @@ class _HomePageState extends State<HomePage> {
                     //  sleep(const Duration(milliseconds: 100));
 
                     if (ValueStart < ValueData) {
-                      //  print("ke kanan");
+                        print("ke kanan");
 
                       a = DragData;
 
@@ -368,7 +367,7 @@ class _HomePageState extends State<HomePage> {
                         a = 0;
                       }
                     } else {
-                      // print("ke kiri");
+                       print("ke kiri");
                       a = DragData;
                     }
 
@@ -584,7 +583,7 @@ class _HomePageState extends State<HomePage> {
     setState(() {
       dataQuery =
           'SELECT * FROM EMPLOYEE WHERE time_stamp BETWEEN "$data1" AND "$data2"';
-        //  tahan = true;
+      //  tahan = true;
     });
     // } catch (e) {}
 
@@ -604,7 +603,7 @@ class _HomePageState extends State<HomePage> {
     await apiProvider.getAllEmployees();
 
     // wait for 2 seconds to simulate loading of data
-    await Future.delayed(const Duration(seconds: 2));
+   // await Future.delayed(const Duration(seconds: 2));
 
     setState(() {
       //changeQuery();

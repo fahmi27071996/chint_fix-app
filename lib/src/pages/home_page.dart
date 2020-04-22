@@ -1,3 +1,4 @@
+import 'dart:async';
 import 'dart:convert';
 import 'dart:ffi';
 import 'dart:io';
@@ -51,6 +52,8 @@ var StatusStartScale = false;
 
 int AddManual = 0;
 int AddManualLeft = 0;
+
+var tahan = false;
 
 class HomePage extends StatefulWidget {
   const HomePage({Key key}) : super(key: key);
@@ -109,8 +112,57 @@ class _HomePageState extends State<HomePage> {
     counter++;
   }
 
+
+  void baca(){
+    Future.delayed(const Duration(seconds: 2), () {
+    AddManual++;
+    changeQuery1("data1", "data2");});
+  }
+
+  void tunda() async {
+    const oneSec = const Duration(seconds: 5);
+    new Timer.periodic(oneSec, (Timer t) {
+
+      
+      
+
+      if (!tahan) {
+        tahan = false;
+        AddManual = AddManual + 1;
+        print("manual : " + AddManual.toString());
+      }
+
+      setState(() {
+        changeQuery1("data1", "data2");        
+        //tahan = true;
+      });
+    });
+  }
+
+// Timer _timer;
+// int _start = 0;
+
+// void startTimer() {
+//   const oneSec = const Duration(seconds: 1);
+//   _timer = new Timer.periodic(
+//     oneSec,
+//     (Timer timer) => setState(
+//       () {
+//         if (_start > 40) {
+//           timer.cancel();
+//         } else {
+//           _start = _start + 1;
+//           AddManual = _start;
+//         }
+//       },
+//     ),
+//   );
+// }
+
   @override
   Widget build(BuildContext context) {
+    // tunda();
+    baca();
     return Scaffold(
       appBar: AppBar(
         // title: Text('Get Json'),
@@ -167,7 +219,6 @@ class _HomePageState extends State<HomePage> {
           Center(
               child: new IconButton(
             icon: new Icon(Icons.add_box),
-            
             onPressed: () {
               setState(() {
                 // AddManual=0;
@@ -282,8 +333,6 @@ class _HomePageState extends State<HomePage> {
                     style: TextStyle(color: Colors.red, fontSize: 18.0),
                   ),
                 ),
-
-               
                 Center(
                     child: GestureDetector(
                   onHorizontalDragStart: (details) {
@@ -308,7 +357,7 @@ class _HomePageState extends State<HomePage> {
                     //  sleep(const Duration(milliseconds: 100));
 
                     if (ValueStart < ValueData) {
-                      print("ke kanan");
+                      //  print("ke kanan");
 
                       a = DragData;
 
@@ -319,7 +368,7 @@ class _HomePageState extends State<HomePage> {
                         a = 0;
                       }
                     } else {
-                      print("ke kiri");
+                      // print("ke kiri");
                       a = DragData;
                     }
 
@@ -342,6 +391,8 @@ class _HomePageState extends State<HomePage> {
                   onHorizontalDragEnd: (details) {
                     DataStop = DataStop1;
 
+                    print("stop");
+
                     setState(() {
                       AddManual = 0;
                     });
@@ -354,11 +405,7 @@ class _HomePageState extends State<HomePage> {
                     // StartScale = details;
                   },
 
-                  
-
                   onScaleUpdate: (ScaleUpdateDetails scaleDetails) {
-
-                    
                     if (!StatusStartScale) {
                       StartScale = scaleDetails.scale;
                       StatusStartScale = true;
@@ -414,8 +461,7 @@ class _HomePageState extends State<HomePage> {
                       color: Colors.grey,
                     ),
                   ),
-                )
-                ),
+                )),
               ],
             ),
 
@@ -538,6 +584,7 @@ class _HomePageState extends State<HomePage> {
     setState(() {
       dataQuery =
           'SELECT * FROM EMPLOYEE WHERE time_stamp BETWEEN "$data1" AND "$data2"';
+        //  tahan = true;
     });
     // } catch (e) {}
 
@@ -805,6 +852,7 @@ class _HomePageState extends State<HomePage> {
   @override
   void initState() {
     changeQuery1("data1", "data2");
+
     super.initState();
   }
 }

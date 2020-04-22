@@ -54,7 +54,14 @@ int AddManual = 0;
 int AddManualLeft = 0;
 
 var tahan = false;
+
+// future delayed untuk penambahan bar //
 var WaitSeconds = 1;
+
+var statusWaitSeconds = 0;
+var saveDrag=0;
+
+// future delayed untuk penambahan bar //
 
 class HomePage extends StatefulWidget {
   const HomePage({Key key}) : super(key: key);
@@ -113,11 +120,15 @@ class _HomePageState extends State<HomePage> {
     counter++;
   }
 
-  void baca() {
-    Future.delayed(Duration(seconds: WaitSeconds), () {
-     // AddManual++;
-    //  changeQuery1("data1", "data2");
-    });
+  void baca(var WaitData) {
+    if (statusWaitSeconds > 0) {
+      Future.delayed(Duration(seconds: 1), () {
+        AddManual += statusWaitSeconds;
+        AddManualLeft -= statusWaitSeconds;
+        changeQuery1("data1", "data2");
+        print("tambah data" + AddManual.toString());
+      });
+    }
   }
 
   void tunda() async {
@@ -134,6 +145,15 @@ class _HomePageState extends State<HomePage> {
         //tahan = true;
       });
     });
+  }
+
+  void delayOneseconds() async {
+    // if (statusWaitSeconds > 0) {
+    const oneSec = const Duration(seconds: 1);
+    new Timer.periodic(oneSec, (Timer t) {
+      baca(WaitSeconds);
+    });
+    // }
   }
 
 // Timer _timer;
@@ -159,7 +179,10 @@ class _HomePageState extends State<HomePage> {
   @override
   Widget build(BuildContext context) {
     // tunda();
-    baca();
+
+    //  delayOneseconds();
+    baca(1);
+
     return Scaffold(
       appBar: AppBar(
         // title: Text('Get Json'),
@@ -218,12 +241,20 @@ class _HomePageState extends State<HomePage> {
             icon: new Icon(Icons.add_box),
             onPressed: () {
               setState(() {
+               Future.delayed(Duration(seconds: 1), () {
+                 statusWaitSeconds++;
+               });
 
-               // WaitSeconds++;
-              
-                // AddManualLeft++;
+                // WaitSeconds++;
+                //  baca(WaitSeconds);
 
-                // changeQuery1("data1", "data2");
+                // print("wait seconds : " + WaitSeconds.toString());
+
+                // WaitSeconds++;
+
+                //  AddManualLeft++;
+
+                //changeQuery1("data1", "data2");
               });
             },
           )),
@@ -234,8 +265,9 @@ class _HomePageState extends State<HomePage> {
             onPressed: () {
               setState(() {
                 //  AddManual=0;
-                AddManualLeft--;
-                changeQuery1("data1", "data2");
+                // AddManualLeft--;
+                // changeQuery1("data1", "data2");
+               // statusWaitSeconds = 0;
               });
             },
           )),
@@ -335,6 +367,7 @@ class _HomePageState extends State<HomePage> {
                 Center(
                     child: GestureDetector(
                   onHorizontalDragStart: (details) {
+                    statusWaitSeconds = 2;
                     // a++;
                     ValueStart = details.globalPosition.dx.toInt();
                     //  changeQuery1("data1", "data2");
@@ -356,7 +389,7 @@ class _HomePageState extends State<HomePage> {
                     //  sleep(const Duration(milliseconds: 100));
 
                     if (ValueStart < ValueData) {
-                        print("ke kanan");
+                      // print("ke kanan");
 
                       a = DragData;
 
@@ -366,18 +399,31 @@ class _HomePageState extends State<HomePage> {
                         // ShowToast();
                         a = 0;
                       }
+
+                      //   WaitSeconds++;
+                      //  if (WaitSeconds > 0) {
+
+                      //  }
+                      
+                     
+                      print("Drag Data : " + DragData.toString());
+                      print("wait seconds : " + statusWaitSeconds.toString());
+                      saveDrag = DragData;
                     } else {
-                       print("ke kiri");
+                      // print("ke kiri");
                       a = DragData;
                     }
 
                     // if(a > 16){a = 16;}
                     // if(a <-16){a =-16;}
 
-                    print("daata A : " + DragData.toString());
-                    //var data = DateLimit;
+                    // print("daata A : " + DragData.toString());
 
-                    changeQuery1("data1", "data2");
+                    // eksekusi query untuk update bar berdasarkan gerakan gesture kiri/kanan
+
+                    // changeQuery1("data1", "data2");
+
+                    // eksekusi query untuk update bar berdasarkan gerakan gesture kiri/kanan
                   },
 
                   // onPanUpdate: (details) {
@@ -388,55 +434,58 @@ class _HomePageState extends State<HomePage> {
                   // },
 
                   onHorizontalDragEnd: (details) {
+                   //  statusWaitSeconds = 2;
+                    // baca(1);
                     DataStop = DataStop1;
 
                     print("stop");
 
                     setState(() {
                       AddManual = 0;
+                      
                     });
                   },
 
                   //normal code
 
-                  onScaleStart: (ScaleStartDetails details) {
-                    print("startScale : " + details.toString());
-                    // StartScale = details;
-                  },
+                  // onScaleStart: (ScaleStartDetails details) {
+                  //   print("startScale : " + details.toString());
+                  //   // StartScale = details;
+                  // },
 
-                  onScaleUpdate: (ScaleUpdateDetails scaleDetails) {
-                    if (!StatusStartScale) {
-                      StartScale = scaleDetails.scale;
-                      StatusStartScale = true;
-                    }
+                  // onScaleUpdate: (ScaleUpdateDetails scaleDetails) {
+                  //   if (!StatusStartScale) {
+                  //     StartScale = scaleDetails.scale;
+                  //     StatusStartScale = true;
+                  //   }
 
-                    var ValueScale = scaleDetails.scale;
-                    // var ChangeScaleValue;
+                  //   var ValueScale = scaleDetails.scale;
+                  //   // var ChangeScaleValue;
 
-                    // if (ValueScale < 1) {
-                    //   ChangeScaleValue  = (1- ValueScale)*20;
-                    //  // print("zoom out");
-                    // } else if (ValueScale > 1) {
-                    //   ChangeScaleValue  = ValueScale-ValueStart;
-                    //  // print("zoom in");
-                    // }
+                  //   // if (ValueScale < 1) {
+                  //   //   ChangeScaleValue  = (1- ValueScale)*20;
+                  //   //  // print("zoom out");
+                  //   // } else if (ValueScale > 1) {
+                  //   //   ChangeScaleValue  = ValueScale-ValueStart;
+                  //   //  // print("zoom in");
+                  //   // }
 
-                    // ChangeScaleValue  = ValueScale-ValueStart;
-                    print("New Scale" + ValueScale.toString());
+                  //   // ChangeScaleValue  = ValueScale-ValueStart;
+                  //   print("New Scale" + ValueScale.toString());
 
-                    // print( "scale :" + scaleDetails.focalPoint.toString() + "  " + details.localFocalPoint.toString());
-                    //  double get distance => math.sqrt(dx * dx + dy * dy);
-                    // print("details : " +
-                    //     (scaleDetails.scale.toString()));
-                  },
+                  //   // print( "scale :" + scaleDetails.focalPoint.toString() + "  " + details.localFocalPoint.toString());
+                  //   //  double get distance => math.sqrt(dx * dx + dy * dy);
+                  //   // print("details : " +
+                  //   //     (scaleDetails.scale.toString()));
+                  // },
 
-                  onScaleEnd: (ScaleEndDetails scaleDetails) {
-                    // print( "scale :" + scaleDetails.focalPoint.toString() + "  " + details.localFocalPoint.toString());
-                    //  double get distance => math.sqrt(dx * dx + dy * dy);
-                    print("End Scale : " + scaleDetails.toString());
-                    StartScale = 0;
-                    StatusStartScale = false;
-                  },
+                  // onScaleEnd: (ScaleEndDetails scaleDetails) {
+                  //   // print( "scale :" + scaleDetails.focalPoint.toString() + "  " + details.localFocalPoint.toString());
+                  //   //  double get distance => math.sqrt(dx * dx + dy * dy);
+                  //   print("End Scale : " + scaleDetails.toString());
+                  //   StartScale = 0;
+                  //   StatusStartScale = false;
+                  // },
 
                   //(DragStartDetails start) =>
                   //     _onDragStart(context, start),
@@ -529,7 +578,7 @@ class _HomePageState extends State<HomePage> {
     var plus;
 
     var fiftyDaysFromNow1 = fiftyDaysFromNow
-        .add(new Duration(hours: (35 + AddManual + AddManualLeft)));
+        .add(new Duration(hours: (60 + AddManual + AddManualLeft)));
     var format1 =
         DateFormat('yyyyMMddTkkmmss').format(fiftyDaysFromNow1).toString();
 
@@ -561,8 +610,8 @@ class _HomePageState extends State<HomePage> {
     // {data1 = "20200414T160000";
 
     // }
-    print("start " + data1.toString());
-    print("stop " + data2.toString());
+   // print("start " + data1.toString());
+   // print("stop " + data2.toString());
 
     DateTime data_limit = DateTime.parse("20200414T160000");
 
@@ -603,7 +652,7 @@ class _HomePageState extends State<HomePage> {
     await apiProvider.getAllEmployees();
 
     // wait for 2 seconds to simulate loading of data
-   // await Future.delayed(const Duration(seconds: 2));
+    // await Future.delayed(const Duration(seconds: 2));
 
     setState(() {
       //changeQuery();
